@@ -1,0 +1,49 @@
+Job title,Physicality (0-3),Remote (bool),Sociality (0-3),Computer skills (0-3),Urbanity (0-3),Salary $/h,Work hours h/w,flexibility,gig (bool),Tags
+amusement park staff,0,false,2,0,3,10,40,1,false,sales
+babysitter,2,false,2,0,NA,11,40,2,true,children
+background actor,2,false,2,0,2,12,NA,0,true,"movies, theater"
+baker,1,false,0,0,2,12,39,1,false,"food, baking"
+bartender,0,false,2,0,2,8,35,1,false,"beer, booze, wine, drinks, coctails, legal age"
+camp counselor,2,false,3,0,1,10,40,0,false,"children, outdoors"
+car washer,3,false,1,0,2,9,NA,3,false,"car, cleaning, outdoors"
+cashier,1,false,2,0,2,10,35,2,false,"sales, customer service"
+chauffeur,0,false,2,0,2,13,NA,3,true,"cars, driving, driver's license"
+church worker,1,false,2,0,NA,10,40,1,false,religion
+cleaner,1,false,0,0,1,12,30,2,false,cleaning
+coach,3,false,3,0,2,9,30,3,false,"sports, teaching"
+construction worker,2,false,1,0,2,16,40,1,false,outdoors
+cook,1,false,0,0,2,11,40,2,false,"food, baking"
+customer service,0,true,3,1,2,14,40,2,false,customer service
+delivery person,1,false,0,0,3,15,NA,3,true,"car, bike, delivery"
+dishwasher,1,false,0,0,2,10,30,1,false,cleaning
+ebay flipping,0,true,1,1,1,NA,NA,3,true,sales
+farm worker,2,false,1,0,0,12,40,1,false,"animals, food, plants, outdoors"
+fast food worker,1,false,0,0,2,9,24,1,false,"food, customer service"
+garbage cleaning,1,false,0,0,2,15,35,2,false,"cleaning, outdoors"
+gardener,1,false,0,0,NA,15,35,3,false,"plants, gardening"
+golf caddy,2,false,1,0,2,12,35,3,false,"sports, outdoors"
+graphic designer,0,true,1,2,NA,13,30,2,true,"art, computers"
+housekeeper,1,false,0,0,NA,10,30,1,false,cleaning
+ice cream seller,0,false,2,0,2,8,40,1,false,food
+IT support,0,true,2,3,1,18,40,2,false,"computer, programming"
+lawnmower,2,false,0,0,NA,12,NA,3,true,"gardening, outdoors"
+library assistant,1,false,2,0,1,14,20,1,false,books
+lifeguard,3,false,2,0,2,10,37,1,false,swimming
+movie theater worker,0,false,2,0,3,10,30,1,false,"sales, movies"
+painter,0,false,0,0,NA,14,30,2,false,redecoration
+paperboy,2,false,0,0,2,17,30,3,false,"delivery, bike"
+pet-sitter,2,false,1,0,NA,13,NA,2,true,"animals, outdoors"
+photographer,1,false,0,1,2,17,NA,3,true,"art, photography"
+receptionist,0,false,3,1,NA,13,40,1,false,"customer service, hotel"
+retail worker,1,false,3,0,2,10,40,1,false,sales
+senior care,1,false,3,0,1,12,35,1,false,elderly
+social media manager,0,true,1,1,NA,15,37,2,false,"social media, instagram, twitter, internet, facebook"
+software developer,0,true,0,3,NA,22,30,3,false,"computer, programming"
+sports referee,3,false,2,0,2,9,NA,1,true,sports
+survey respondent,0,true,1,0,NA,NA,NA,3,true,
+swim instructor,2,false,3,0,2,12,30,2,false,"swimming, teaching"
+telemarketer,0,true,3,1,NA,11,40,3,false,sales
+ticket seller,0,false,2,0,1,10,30,2,false,"sales, customer service"
+tour guide,1,false,3,0,2,13,20,0,false,culture
+tutor,0,true,3,1,2,18,NA,3,true,"teaching, school"
+waiter,1,false,2,0,2,7,40,1,false,"food, customer service"

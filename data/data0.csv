@@ -1,0 +1,49 @@
+Job title,Physicality (0-3),Remote (bool),Sociality (0-3),Computer skills (0-3),Urbanity (0-3),Salary $/h,Work hours h/w,gig (bool),Tags
+amusement park staff,0,false,2,0,3,10,40,false,sales
+babysitter,2,false,2,0,NA,11,40,true,children
+background actor,2,false,2,0,2,12,NA,true,"movies, theater"
+baker,1,false,0,0,2,12,39,false,"food, baking"
+bartender,0,false,2,0,2,8,35,false,"beer, booze, wine, drinks, coctails, legal age"
+camp counselor,2,false,3,0,1,10,40,false,"children, outdoors"
+car washer,3,false,1,0,2,9,NA,false,"car, cleaning, outdoors"
+cashier,1,false,2,0,2,10,35,false,"sales, customer service"
+chauffeur,0,false,2,0,2,13,NA,true,"cars, driving, driver's license"
+church worker,1,false,2,0,NA,10,40,false,religion
+cleaner,1,false,0,0,1,12,30,false,cleaning
+coach,3,false,3,0,2,9,30,false,"sports, teaching"
+construction worker,2,false,1,0,2,16,40,false,outdoors
+cook,1,false,0,0,2,11,55,false,"food, baking"
+customer service,0,true,3,1,2,14,40,false,customer service
+delivery person,1,false,0,0,3,15,NA,true,"car, bike, delivery"
+dishwasher,1,false,0,0,2,10,30,false,cleaning
+ebay flipping,0,true,1,1,1,NA,NA,true,sales
+farm worker,2,false,1,0,0,12,40,false,"animals, food, plants, outdoors"
+fast food worker,1,false,0,0,2,9,24,false,"food, customer service"
+garbage cleaning,1,false,0,0,2,15,35,false,"cleaning, outdoors"
+gardener,1,false,0,0,NA,15,35,false,"plants, gardening"
+golf caddy,2,false,1,0,2,12,35,false,"sports, outdoors"
+graphic designer,0,true,1,2,NA,13,30,true,"art, computers"
+housekeeper,1,false,0,0,NA,10,30,false,cleaning
+ice cream seller,0,false,2,0,2,8,40,false,food
+IT support,0,true,2,3,1,18,40,false,"computer, programming"
+lawnmower,2,false,0,0,NA,12,NA,true,"gardening, outdoors"
+library assistant,1,false,2,0,1,14,20,false,books
+lifeguard,3,false,2,0,2,10,37,false,swimming
+movie theater worker,0,false,2,0,3,10,30,false,"sales, movies"
+painter,0,false,0,0,NA,14,30,false,redecoration
+paperboy,2,false,0,0,2,17,30,false,"delivery, bike"
+pet-sitter,1,false,1,0,NA,13,NA,true,"animals, outdoors"
+photographer,1,false,0,1,2,17,NA,true,"art, photography"
+receptionist,0,false,3,1,NA,13,40,false,"customer service, hotel"
+retail worker,1,false,3,0,2,10,40,false,sales
+senior care,1,false,3,0,1,12,35,false,elderly
+social media manager,0,true,1,1,NA,15,37,false,"social media, instagram, twitter, internet, facebook"
+software developer,0,true,0,3,NA,22,30,false,"computer, programming"
+sports referee,3,false,2,0,2,9,NA,true,sports
+survey respondent,0,true,1,0,NA,NA,NA,true,
+swim instructor,2,false,3,0,2,12,30,false,"swimming, teaching"
+telemarketer,0,true,3,1,NA,11,40,false,sales
+ticket seller,0,false,2,0,1,10,30,false,"sales, customer service"
+tour guide,1,false,3,0,2,13,20,false,culture
+tutor,0,true,3,1,2,18,NA,true,"teaching, school"
+waiter,1,false,2,0,2,7,40,false,"food, customer service"

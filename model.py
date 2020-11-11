@@ -1,30 +1,34 @@
-with open("data/data_notags.csv") as f:
-    rawdata = f.readlines()[1:]
+import consts
+import csv
+import numpy as np
 
-data = []
-for line in rawdata:
-    data.append(line.split(','))
+# luetaan data
+with open(consts.FILEPATH) as f:
+    data = np.array(list(csv.reader(f, delimiter=',')), dtype=object)[1:]
 
-for j in range(len(data)):
-    for i in range(1, len(data[j])):
-        data[j][i] = data[j][i].strip()
-        if data[j][i].isdigit(): data[j][i] = int(data[j][i])
-        elif data[j][i] in ["false", "true"]: data[j][i] = data[j][i] == "true"
-        if data[j][i] == "NA": data[j][i] = None
-
-#for line in data:
-#    print(*(line[1:]), sep='\t')
-tags = ["computers", "programming", "music"]
-
-#            Physical   Remote  Sociality   Computer    Urbanity    $/h Tags
-person  =   [1,         1,      2,          4,          2,          20]
-weights =   [0.7,       0.0,    0.3,        0.7,        0.8,        0.7]
-
-distance = [0 for _ in range(len(data))]
-
+# käsitellään data
+entry_tags = list(map(lambda x: x.split(', '), data[:,-1]))
+data = data[:,:-1]
 for i in range(len(data)):
-    for j in range(1,len(data[i])):
-        if data[i][j] != None: distance[i] += weights[j-1]*abs(person[j-1]-data[i][j])**2
+    for j in range(len(data[i])):
+        if data[i][j].isdigit():
+            data[i][j] = int(data[i][j])
+data[data == "true"] = 1
+data[data == "false"] = 0
+data[data == "NA"] = None
 
-results = sorted(zip(distance, [x[0] for x in data]))
+# otetaan käyttäjädata
+#           Physical    Remote  Sociality   Computer    Urbanity    $/h     Hours   Flexibility Gig
+person  =  [1,          0,      2,          0,          3,          20,     30,     3,          0]
+weights =  [0.9,        0.1,    0.7,        1.0,        0.9,        1.0,    0.7,    0.6,        1]
+
+# lasketaan pisteet
+scores = np.zeros(len(data))
+for i in range(len(data)):
+    for j in range(len(data[i,1:])):
+        if data[i, 1+j] is None: continue
+        scores[i] += weights[j] * consts.ATTRIBUTE_WEIGHTS[j] * abs(person[j] - data[i, 1+j])**2
+
+results = np.array(sorted(list(zip(scores, data[:,0]))))
 print(*results, sep='\n')
+
