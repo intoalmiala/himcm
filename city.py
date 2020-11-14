@@ -25,7 +25,7 @@ def route_time(person_pos, job_pos, mode=None):
     try:
         route = routes[0]["legs"]
     except IndexError:
-        return 1000000007
+        return -1
     # palauttaa kaikkien liikennevälineiden kestojen summan
     return sum(map(lambda r: r["duration"], route))
 

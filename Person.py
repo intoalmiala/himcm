@@ -1,4 +1,5 @@
 from random import uniform
+import consts
 import city
 
 class Person:
@@ -15,20 +16,14 @@ class Person:
         self.mono, self.monow = args[16], args[17]
         self.gig, self.gigw = args[18], args[19]
         self.remote, self.remotew = args[20], args[21]
-        self.tags = args[22]
-        self.pos = (uniform(60.276, 60.151), uniform(24.855, 25.155))
-        self.args = args
+        self.pos = args[22], args[23]
+        self.tags = args[24]
 
     def __str__(self):
         return f"Person {self.name} at {self.pos}"
 
     def score(self, job):
-        print("score:", self, job, sep="\n")
-        print()
-        print(self.args)
-        print(job.args)
-        input("\n")
-        dur = city.route_time(self.pos, job.pos, self.vehicle)
+        dur = city.route_time(self.pos, job.pos, self.vehicle)*consts.PERSON_FACTOR_WEIGHTS[1]
         score = sqerr(self.distw, self.dist, max(self.dist, dur))
         score += sqerr(self.payw, self.pay, min(self.pay, job.pay))
         score += sqerr(self.hoursw, self.hours, job.hours)
