@@ -19,8 +19,10 @@ data[data == "NA"] = None
 
 # otetaan käyttäjädata
 #           Physical    Remote  Sociality   Computer    Urbanity    $/h     Hours   Flexibility Gig
-person  =  [1,          0,      2,          0,          3,          20,     30,     3,          0]
-weights =  [0.9,        0.1,    0.7,        1.0,        0.9,        1.0,    0.7,    0.6,        1]
+#person  =  [1,          0,      2,          0,          3,          20,     30,     3,          0]
+#weights =  [0.9,        0.1,    0.7,        1.0,        0.9,        1.0,    0.7,    0.6,        1]
+person  =  [1,          1,      2,          2,          2,          15,     37.5,   1,          0]
+weights =  [0.5,        0.7,      0.8,      0.4,        0.8,        0.2,    0.4,    0.2,        0.7]
 
 # lasketaan pisteet
 scores = np.zeros(len(data))
@@ -28,6 +30,7 @@ for i in range(len(data)):
     for j in range(len(data[i,1:])):
         if data[i, 1+j] is None: continue
         scores[i] += weights[j] * consts.ATTRIBUTE_WEIGHTS[j] * abs(person[j] - data[i, 1+j])**2
+        # kuuluuko olla weight vai 1-weight?
 
 results = np.array(sorted(list(zip(scores, data[:,0]))))
 print(*results, sep='\n')
