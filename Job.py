@@ -22,4 +22,4 @@ class Job:
         return [cls(*args) for _ in range(n)]
 
     def __str__(self):
-        return f"{self.title} at {self.pos}"
+        return f"Job {self.title} at {self.pos}"

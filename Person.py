@@ -14,3 +14,6 @@ class Person:
         self.tags = args[11]
         self.pos = (uniform(60.276, 60.151), uniform(24.855, 25.155))
 
+    def __str__(self):
+        return f"Person {self.name} at {self.pos}"
+

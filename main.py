@@ -12,6 +12,6 @@ for i in range(len(data)):
     for j in range(1,11):
         data[i][j] = int(data[i][j])
     data[i][11] = list(map(lambda x: x.strip(), data[i][11].split(',')))
-    jobs += Job.nJob(data[i][1], data[i][:-1])
+    jobs += Job.nJob(data[i][1], [data[i][0]] + data[i][2:])
 
 print(*jobs, sep="\n")
