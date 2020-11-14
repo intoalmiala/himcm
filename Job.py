@@ -6,6 +6,7 @@ class Job:
         self.pay = pay
         self.hours = hours
         self.phys = physicality
+        self.soc = sociality
         self.flex = flexibility
         self.conc = concentration
         self.mono = monotonity
@@ -16,6 +17,7 @@ class Job:
             self.pos = None
         else:
             self.pos = (uniform(60.276, 60.151), uniform(24.855, 25.155))
+        self.args = (title, pay, hours, physicality, sociality, flexibility, concentration, monotonity, gig, remote, tags)
 
     @classmethod
     def nJob(cls, n, args):
