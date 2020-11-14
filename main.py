@@ -9,9 +9,9 @@ data = rawdata[1:]
 jobs = []
 
 for i in range(len(data)):
-    for j in range(1,10):
+    for j in range(1,11):
         data[i][j] = int(data[i][j])
-    data[i][10] = list(map(lambda x: x.strip(), data[i][10].split(',')))
-    jobs += Job.nJob(3, data[i][:-1])
+    data[i][11] = list(map(lambda x: x.strip(), data[i][11].split(',')))
+    jobs += Job.nJob(data[i][1], data[i][:-1])
 
 print(*jobs, sep="\n")
