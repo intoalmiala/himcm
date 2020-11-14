@@ -1,0 +1,17 @@
+query Plan($lat_a: Float!, $lon_a: Float!, $lat_b: Float!, $lon_b: Float!) {
+        plan(
+        from: {lat: $lat_a, lon: $lon_a},
+        to: {lat: $lat_b, lon: $lon_b},
+        transportModes: [{mode: BUS}, {mode: RAIL}, {mode: TRAM}, {mode: SUBWAY}, {mode: WALK}],
+        numItineraries: 1
+    ) {
+        itineraries {
+            legs {
+                duration
+                distance
+                mode
+            }
+          	walkDistance
+        }
+    }
+}
