@@ -17,11 +17,11 @@ class Sim:
     def random_job():
         pass
 
-def route_time(person, job, mode=None):
+def route_time(person_pos, job_pos, mode=None):
     # etätyö
-    if job.pos is None:
+    if job_pos is None:
         return 0
-    route = coordinates.find_route(person.pos, job.pos, mode)["data"]["plan"]["itineraries"][0]["legs"]
+    route = coordinates.find_route(person_pos, job_pos, mode)["data"]["plan"]["itineraries"][0]["legs"]
     # palauttaa kaikkien liikennevälineiden kestojen summan
     return sum(map(lambda r: r["duration"], route))
 

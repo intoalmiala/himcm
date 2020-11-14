@@ -5,10 +5,10 @@ class Job:
         self.title = title
         self.pay = pay
         self.hours = hours
-        self.physicality = physicality
-        self.flexibility = flexibility
-        self.concentration = concentration
-        self.monotonity = monotonity
+        self.phys = physicality
+        self.flex = flexibility
+        self.conc = concentration
+        self.mono = monotonity
         self.gig = gig
         self.remote = remote
         self.tags = tags
