@@ -13,7 +13,7 @@ class Job:
         self.mono = monotonity
         self.gig = gig
         self.remote = remote
-        self.tags = tags
+        self.tags = set(tags)
         self.pos = pos
 
     @classmethod

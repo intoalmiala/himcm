@@ -17,14 +17,19 @@ class Person:
         self.gig, self.gigw = args[18], args[19]
         self.remote, self.remotew = args[20], args[21]
         self.pos = args[22], args[23]
-        self.tags = args[24]
+        self.tags = set(args[24])
 
     def __str__(self):
         return f"Person {self.name} at {self.pos}"
 
     def score(self, job):
-        dur = city.route_time(self.pos, job.pos, self.vehicle)*consts.PERSON_FACTOR_WEIGHTS[1]
-        score = sqerr(self.distw, self.dist, max(self.dist, dur))
+        n = 10
+        score = 0
+        dur = city.route_time(self.pos, job.pos, self.vehicle)
+        if dur == None:
+            n -= 1
+        else:
+            score += sqerr(self.distw, self.dist, max(self.dist, dur*consts.PERSON_FACTOR_WEIGHTS[1]))
         score += sqerr(self.payw, self.pay, min(self.pay, job.pay))
         score += sqerr(self.hoursw, self.hours, job.hours)
         score += sqerr(self.physw, self.phys, job.phys)
@@ -34,7 +39,7 @@ class Person:
         score += sqerr(self.monow, self.mono, job.mono)
         score += sqerr(self.gigw, self.gig, job.gig)
         score += sqerr(self.remotew, self.remote, job.remote)
-        return score
+        return score/n
     
 def sqerr(w, y, y_hat):
     return w * (y - y_hat)**2

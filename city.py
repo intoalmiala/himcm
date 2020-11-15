@@ -20,7 +20,7 @@ class Sim:
 def route_time(person_pos, job_pos, mode=None):
     # etätyö
     if job_pos is None:
-        return 0
+        return None
     routes = coordinates.find_route(person_pos, job_pos, mode)["data"]["plan"]["itineraries"]
     try:
         route = routes[0]["legs"]
