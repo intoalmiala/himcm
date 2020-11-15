@@ -1,0 +1,273 @@
+Job title, Id, Frequency,Salary $/h,Work hours h/w,Physicality (0-3),Sociality (0-3),Flexibility (0-3),Concentration (0-3),Monotonity (0-3),gig (bool),Remote (bool),Tags,PosX, PosY
+amusement park staff;1;10;35;0;2;1;2;2;0;0;{'sales', 'customer service'};60.2386809945806;25.0062762127472
+babysitter;2;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.1578212711756;24.9664396778104
+babysitter;3;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.1631978415428;24.8890963034881
+babysitter;4;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.1654485979097;24.9462477500078
+babysitter;5;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.1658523269826;24.9419721586168
+babysitter;6;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.1713579058621;24.9310927426887
+babysitter;7;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.1714675480113;25.0249458825258
+babysitter;8;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.1721955407138;24.9729145161394
+babysitter;9;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.1831664616107;25.0912841460267
+babysitter;10;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.184312029907;24.9653042357261
+babysitter;11;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.1925856494937;25.1009703870204
+babysitter;12;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.198701668464;25.0051405126794
+babysitter;13;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.2229792557177;24.9502341308629
+babysitter;14;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.224593014816;24.9785629467105
+babysitter;15;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.2251940408355;25.0424984015394
+babysitter;16;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.2291508910177;24.8872715052408
+babysitter;17;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.2336658687274;25.0880472143881
+babysitter;18;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.2379728796519;25.0398822152064
+babysitter;19;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.2528338236132;25.0259283619282
+babysitter;20;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.2705481703587;24.9926963400822
+babysitter;21;11;25;2;2;2;2;2;1;0;{'children', 'activities'};60.2756847148941;24.9550420373855
+baker;22;12;30;1;0;1;3;1;0;0;{'baking', 'food'};60.1915208911072;24.8979772937561
+baker;23;12;30;1;0;1;3;1;0;0;{'baking', 'food'};60.1931872036109;24.9690507463376
+baker;24;12;30;1;0;1;3;1;0;0;{'baking', 'food'};60.1968334947147;25.0157428445268
+baker;25;12;30;1;0;1;3;1;0;0;{'baking', 'food'};60.1998976125213;24.8677581604028
+baker;26;12;30;1;0;1;3;1;0;0;{'baking', 'food'};60.211527201045;25.0801182620187
+bartender;27;8;35;0;2;1;2;2;0;0;{'beer', 'legal age', 'drinks', 'coctails', 'booze', 'wine'};60.1850118793617;25.127834625634
+bartender;28;8;35;0;2;1;2;2;0;0;{'beer', 'legal age', 'drinks', 'coctails', 'booze', 'wine'};60.1936973369186;25.077026880173
+bartender;29;8;35;0;2;1;2;2;0;0;{'beer', 'legal age', 'drinks', 'coctails', 'booze', 'wine'};60.1996698349126;25.1316080441902
+bartender;30;8;35;0;2;1;2;2;0;0;{'beer', 'legal age', 'drinks', 'coctails', 'booze', 'wine'};60.2010631153989;24.9289663369249
+bartender;31;8;35;0;2;1;2;2;0;0;{'beer', 'legal age', 'drinks', 'coctails', 'booze', 'wine'};60.2157537586044;25.0901530532004
+bartender;32;8;35;0;2;1;2;2;0;0;{'beer', 'legal age', 'drinks', 'coctails', 'booze', 'wine'};60.2174474293007;25.1528822641255
+bartender;33;8;35;0;2;1;2;2;0;0;{'beer', 'legal age', 'drinks', 'coctails', 'booze', 'wine'};60.2273083859186;24.874850531575
+bartender;34;8;35;0;2;1;2;2;0;0;{'beer', 'legal age', 'drinks', 'coctails', 'booze', 'wine'};60.2292575920284;25.0920083123623
+bartender;35;8;35;0;2;1;2;2;0;0;{'beer', 'legal age', 'drinks', 'coctails', 'booze', 'wine'};60.231590797411;25.1016878169932
+bartender;36;8;35;0;2;1;2;2;0;0;{'beer', 'legal age', 'drinks', 'coctails', 'booze', 'wine'};60.2693117193625;25.0069681263194
+camp counselor;37;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.1558944731884;24.8902420785363
+camp counselor;38;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.1613912083796;24.8801864303054
+camp counselor;39;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.1691546332676;25.0772738622869
+camp counselor;40;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.1723465879667;24.9305076481584
+camp counselor;41;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.1778560109446;24.9148914442979
+camp counselor;42;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.1875112141845;25.1507184529219
+camp counselor;43;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.1946498333925;25.0523810201173
+camp counselor;44;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.1983764175556;24.9606189306258
+camp counselor;45;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2034875828493;25.0097474341161
+camp counselor;46;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2072604437932;24.9840987721074
+camp counselor;47;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.216269812788;24.912944403646
+camp counselor;48;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2194314267184;25.063479489875
+camp counselor;49;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2207422621563;24.9324751911627
+camp counselor;50;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2237164370146;25.0217957953302
+camp counselor;51;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2421065486211;25.0501838424106
+camp counselor;52;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2498588370156;24.9903427499632
+camp counselor;53;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2521779783034;25.0898812646607
+camp counselor;54;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2544914034012;24.9821106023227
+camp counselor;55;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2611772351955;25.0664212043276
+camp counselor;56;10;40;2;3;0;3;0;0;0;{'outdoors', 'children', 'activities'};60.2712325225312;25.1005381528439
+car washer;57;9;20;3;1;3;2;3;0;0;{'outdoors', 'cleaning', 'car'};60.156247385331;24.8938253934465
+car washer;58;9;20;3;1;3;2;3;0;0;{'outdoors', 'cleaning', 'car'};60.1692138511769;24.9765300930448
+car washer;59;9;20;3;1;3;2;3;0;0;{'outdoors', 'cleaning', 'car'};60.2033172237239;24.9688351139245
+car washer;60;9;20;3;1;3;2;3;0;0;{'outdoors', 'cleaning', 'car'};60.2145623518557;25.1009995019197
+car washer;61;9;20;3;1;3;2;3;0;0;{'outdoors', 'cleaning', 'car'};60.2419762035608;24.9168077942493
+cashier;62;10;35;1;2;2;2;3;0;0;{'sales', 'customer service'};60.1545455893747;25.0228091509219
+cashier;63;10;35;1;2;2;2;3;0;0;{'sales', 'customer service'};60.1697883503344;24.8790575893426
+cashier;64;10;35;1;2;2;2;3;0;0;{'sales', 'customer service'};60.1811556042744;25.0756529857744
+cashier;65;10;35;1;2;2;2;3;0;0;{'sales', 'customer service'};60.2213075450688;24.8600221494534
+cashier;66;10;35;1;2;2;2;3;0;0;{'sales', 'customer service'};60.221604334694;24.9427378668589
+cashier;67;10;35;1;2;2;2;3;0;0;{'sales', 'customer service'};60.2321206960152;25.0546603935256
+cashier;68;10;35;1;2;2;2;3;0;0;{'sales', 'customer service'};60.2454956076058;24.9935023336417
+cashier;69;10;35;1;2;2;2;3;0;0;{'sales', 'customer service'};60.2676647112772;24.9041697643229
+cashier;70;10;35;1;2;2;2;3;0;0;{'sales', 'customer service'};60.2723329823175;24.9410765462914
+cashier;71;10;35;1;2;2;2;3;0;0;{'sales', 'customer service'};60.2746190459111;24.9334197372386
+church worker;72;10;35;1;2;1;2;2;0;0;{'religion'};60.1841897120219;24.9176113878651
+church worker;73;10;35;1;2;1;2;2;0;0;{'religion'};60.1876881326296;25.0199508493967
+church worker;74;10;35;1;2;1;2;2;0;0;{'religion'};60.2095747504212;25.0951811146641
+church worker;75;10;35;1;2;1;2;2;0;0;{'religion'};60.2163061283084;24.9068983547992
+church worker;76;10;35;1;2;1;2;2;0;0;{'religion'};60.2368299202574;25.064579787
+cleaner;77;12;25;1;0;2;1;3;0;0;{'cleaning'};60.1639811401935;25.0695758867182
+cleaner;78;12;25;1;0;2;1;3;0;0;{'cleaning'};60.1685333146363;25.097049309789
+cleaner;79;12;25;1;0;2;1;3;0;0;{'cleaning'};60.1854342563322;24.946643261972
+cleaner;80;12;25;1;0;2;1;3;0;0;{'cleaning'};60.2341611811856;24.9774440614007
+cleaner;81;12;25;1;0;2;1;3;0;0;{'cleaning'};60.2487176300185;24.9488933605431
+coach;82;9;30;3;3;3;3;2;0;0;{'teaching', 'sports', 'activities'};60.1817493066673;24.994129113908
+coach;83;9;30;3;3;3;3;2;0;0;{'teaching', 'sports', 'activities'};60.2304951298733;24.9730167636739
+construction worker;84;16;40;2;1;1;3;2;0;0;{'outdoors'};60.2008686987044;25.1467442362426
+construction worker;85;16;40;2;1;1;3;2;0;0;{'outdoors'};60.2478027029065;25.0878071385022
+construction worker;86;16;40;2;1;1;3;2;0;0;{'outdoors'};60.2557627645151;24.9588570044645
+construction worker;87;16;40;2;1;1;3;2;0;0;{'outdoors'};60.256125511645;25.1218679034944
+construction worker;88;16;40;2;1;1;3;2;0;0;{'outdoors'};60.2691162722374;24.9571850484366
+cook;89;11;35;1;0;2;3;2;0;0;{'baking', 'food'};60.2160255027212;25.0799273273789
+cook;90;11;35;1;0;2;3;2;0;0;{'baking', 'food'};60.2249674064146;24.9072137315876
+cook;91;11;35;1;0;2;3;2;0;0;{'baking', 'food'};60.2425434743449;25.0619747043169
+cook;92;11;35;1;0;2;3;2;0;0;{'baking', 'food'};60.2694664558114;24.9132996865709
+cook;93;11;35;1;0;2;3;2;0;0;{'baking', 'food'};60.2758945532324;25.0698717118969
+customer service;94;14;40;0;3;2;1;3;0;1;{'customer service'};None;None
+delivery person;95;15;30;1;0;3;1;2;1;0;{'bike', 'delivery', 'car'};60.1605670546192;24.9573633117184
+delivery person;96;15;30;1;0;3;1;2;1;0;{'bike', 'delivery', 'car'};60.1853796996089;25.0091383825425
+delivery person;97;15;30;1;0;3;1;2;1;0;{'bike', 'delivery', 'car'};60.2033815738263;25.0531967098604
+delivery person;98;15;30;1;0;3;1;2;1;0;{'bike', 'delivery', 'car'};60.2310220409562;25.093905459552
+delivery person;99;15;30;1;0;3;1;2;1;0;{'bike', 'delivery', 'car'};60.2343558866322;24.8654698687756
+delivery person;100;15;30;1;0;3;1;2;1;0;{'bike', 'delivery', 'car'};60.2355103778241;24.9769592450695
+delivery person;101;15;30;1;0;3;1;2;1;0;{'bike', 'delivery', 'car'};60.2432594085994;24.8651102047087
+delivery person;102;15;30;1;0;3;1;2;1;0;{'bike', 'delivery', 'car'};60.2497189430599;24.8803433936298
+delivery person;103;15;30;1;0;3;1;2;1;0;{'bike', 'delivery', 'car'};60.2669538711713;24.9946591859768
+delivery person;104;15;30;1;0;3;1;2;1;0;{'bike', 'delivery', 'car'};60.2674882148556;25.0553630003771
+dishwasher;105;10;30;1;0;1;2;3;0;0;{'cleaning'};60.166750403749;24.8892077994538
+dishwasher;106;10;30;1;0;1;2;3;0;0;{'cleaning'};60.1821495912856;25.0868170495547
+dishwasher;107;10;30;1;0;1;2;3;0;0;{'cleaning'};60.1837494596885;24.9222701945025
+dishwasher;108;10;30;1;0;1;2;3;0;0;{'cleaning'};60.2295734550395;25.0440920189968
+dishwasher;109;10;30;1;0;1;2;3;0;0;{'cleaning'};60.2393087918118;25.0775277850902
+farm worker;110;12;35;2;1;1;2;2;0;0;{'plants', 'outdoors', 'animals', 'food'};60.1846107504657;25.1349338872096
+farm worker;111;12;35;2;1;1;2;2;0;0;{'plants', 'outdoors', 'animals', 'food'};60.197601754512;25.0122977046998
+farm worker;112;12;35;2;1;1;2;2;0;0;{'plants', 'outdoors', 'animals', 'food'};60.2439953906263;25.0089945233324
+farm worker;113;12;35;2;1;1;2;2;0;0;{'plants', 'outdoors', 'animals', 'food'};60.2470499024478;24.8632203664425
+farm worker;114;12;35;2;1;1;2;2;0;0;{'plants', 'outdoors', 'animals', 'food'};60.2552729502994;24.8879638910336
+fast food worker;115;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.1518964297334;25.074355412798
+fast food worker;116;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.1578597734523;25.0569412711728
+fast food worker;117;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.1595888642209;24.9579304771029
+fast food worker;118;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.1602354361388;24.9857942870912
+fast food worker;119;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.1694320611836;24.970720018806
+fast food worker;120;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.1740851845828;24.9023255030009
+fast food worker;121;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.1851952017927;24.8890224386484
+fast food worker;122;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.1931143339139;25.1426181561963
+fast food worker;123;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.1939168787151;24.8812440130231
+fast food worker;124;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2013494524912;24.8748369385765
+fast food worker;125;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2069817663079;25.0340680709441
+fast food worker;126;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2073987085445;25.0204451591605
+fast food worker;127;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2163401594239;25.045384264481
+fast food worker;128;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2320837116801;24.9516601970673
+fast food worker;129;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2342763654598;24.9832354862401
+fast food worker;130;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2442453138145;25.0711072204042
+fast food worker;131;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2455871738241;24.9754800346903
+fast food worker;132;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2475646446684;24.9854262521939
+fast food worker;133;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2687944245317;25.0355007548642
+fast food worker;134;9;24;1;0;1;3;3;0;0;{'customer service', 'food'};60.2754958968204;24.9297694305624
+garbage collector;135;15;30;1;0;2;1;3;0;0;{'outdoors', 'cleaning'};60.2104204124059;25.1346110848778
+garbage collector;136;15;30;1;0;2;1;3;0;0;{'outdoors', 'cleaning'};60.2140176199587;24.8922425129188
+garbage collector;137;15;30;1;0;2;1;3;0;0;{'outdoors', 'cleaning'};60.215067196539;24.927313231886
+garbage collector;138;15;30;1;0;2;1;3;0;0;{'outdoors', 'cleaning'};60.2570935999454;24.9331337470874
+garbage collector;139;15;30;1;0;2;1;3;0;0;{'outdoors', 'cleaning'};60.2674100629902;24.9629146394245
+gardener;140;15;30;1;0;3;1;2;0;0;{'plants', 'gardening'};60.1756439263376;25.049638958504
+gardener;141;15;30;1;0;3;1;2;0;0;{'plants', 'gardening'};60.246435860068;25.0432275222528
+gardener;142;15;30;1;0;3;1;2;0;0;{'plants', 'gardening'};60.2496791296806;24.983252686521
+golf caddy;143;12;40;2;1;3;2;2;0;0;{'outdoors', 'sports', 'activities'};60.19939210317;24.8990062710282
+golf caddy;144;12;40;2;1;3;2;2;0;0;{'outdoors', 'sports', 'activities'};60.2001899934658;25.0196971787436
+golf caddy;145;12;40;2;1;3;2;2;0;0;{'outdoors', 'sports', 'activities'};60.2190139700989;25.0674590745573
+graphic designer;146;13;30;0;1;2;2;1;1;1;{'art', 'computers'};None;None
+housekeeper;147;10;30;1;0;1;2;2;0;0;{'cleaning'};60.1579530388429;24.9241822741824
+housekeeper;148;10;30;1;0;1;2;2;0;0;{'cleaning'};60.1580987705645;25.045184402485
+housekeeper;149;10;30;1;0;1;2;2;0;0;{'cleaning'};60.1840121537765;25.0925052707319
+housekeeper;150;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2076812466701;25.0726917224424
+housekeeper;151;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2111494655975;24.8994491243246
+housekeeper;152;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2194610596276;24.9822946884757
+housekeeper;153;10;30;1;0;1;2;2;0;0;{'cleaning'};60.223065337188;24.8869751422643
+housekeeper;154;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2260230852294;24.9354762173143
+housekeeper;155;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2401485275221;25.000492531135
+housekeeper;156;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2428252514028;25.1484292253281
+housekeeper;157;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2469160254345;25.0719994887568
+housekeeper;158;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2540471672467;25.1526622020854
+housekeeper;159;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2582332222538;24.9544008220152
+housekeeper;160;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2626030388944;25.00241179089
+housekeeper;161;10;30;1;0;1;2;2;0;0;{'cleaning'};60.2627448522786;25.0013365100719
+ice cream seller;162;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.1537771440589;25.0630760863379
+ice cream seller;163;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.1642691512628;25.0724942668741
+ice cream seller;164;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.1695695716835;24.8609843192968
+ice cream seller;165;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.1740949460071;24.9141764745081
+ice cream seller;166;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.1770447572842;24.9241958938245
+ice cream seller;167;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.1779001097858;24.9584114096821
+ice cream seller;168;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.1885621063858;25.0757049489498
+ice cream seller;169;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.1912637217298;24.887868591244
+ice cream seller;170;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.1969566081076;24.867668274572
+ice cream seller;171;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2037101039335;24.9126185863871
+ice cream seller;172;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2097859007761;24.9881527156911
+ice cream seller;173;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2159484470997;25.1390253722029
+ice cream seller;174;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2315001806547;25.084408238105
+ice cream seller;175;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2337339543936;24.9348915978768
+ice cream seller;176;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2470300607798;25.0500554325487
+ice cream seller;177;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2493703669494;25.1404194889695
+ice cream seller;178;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2539029416946;25.1125855834247
+ice cream seller;179;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2591167174733;24.8607024182229
+ice cream seller;180;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2689778763831;24.9107665536877
+ice cream seller;181;8;35;0;2;1;1;3;0;0;{'customer service', 'food'};60.2742964325147;24.8887120601699
+IT support;182;18;30;0;2;2;1;2;0;1;{'programming', 'computer'};None;None
+lawnmower;183;12;30;2;0;3;1;3;1;0;{'outdoors', 'gardening'};60.1697092431802;24.8888989096417
+lawnmower;184;12;30;2;0;3;1;3;1;0;{'outdoors', 'gardening'};60.1894244383312;25.1260374528379
+lawnmower;185;12;30;2;0;3;1;3;1;0;{'outdoors', 'gardening'};60.209856020741;24.9419717861751
+lawnmower;186;12;30;2;0;3;1;3;1;0;{'outdoors', 'gardening'};60.2119697191376;24.9837073296636
+lawnmower;187;12;30;2;0;3;1;3;1;0;{'outdoors', 'gardening'};60.2297382018249;25.0781388707955
+library assistant;188;14;30;1;2;1;1;3;0;0;{'customer service', 'books'};60.2525259798389;24.8697724454964
+library assistant;189;14;30;1;2;1;1;3;0;0;{'customer service', 'books'};60.252927805473;25.1014107175527
+library assistant;190;14;30;1;2;1;1;3;0;0;{'customer service', 'books'};60.2547305727105;24.9535941605193
+lifeguard;191;10;35;3;2;1;1;3;0;0;{'swimming'};60.156526519944;25.0714020795839
+lifeguard;192;10;35;3;2;1;1;3;0;0;{'swimming'};60.1642984328136;24.9291575317316
+lifeguard;193;10;35;3;2;1;1;3;0;0;{'swimming'};60.1941522523362;25.1406189961293
+lifeguard;194;10;35;3;2;1;1;3;0;0;{'swimming'};60.2480957271639;25.0615782131857
+lifeguard;195;10;35;3;2;1;1;3;0;0;{'swimming'};60.2752282016134;25.0085945051939
+movie theater worker;196;10;30;0;2;1;1;2;0;0;{'sales', 'movies', 'customer service'};60.16907957416;25.1071365841749
+movie theater worker;197;10;30;0;2;1;1;2;0;0;{'sales', 'movies', 'customer service'};60.1763439142204;25.0372099952566
+movie theater worker;198;10;30;0;2;1;1;2;0;0;{'sales', 'movies', 'customer service'};60.2042427665555;24.873576750531
+movie theater worker;199;10;30;0;2;1;1;2;0;0;{'sales', 'movies', 'customer service'};60.2103887457824;25.0972199675187
+movie theater worker;200;10;30;0;2;1;1;2;0;0;{'sales', 'movies', 'customer service'};60.270251855258;24.8893047853442
+painter;201;14;30;0;0;2;2;3;0;0;{'', 'redecoration'};60.186905113266;25.1406574965174
+painter;202;14;30;0;0;2;2;3;0;0;{'', 'redecoration'};60.1901075628677;24.9559861401967
+painter;203;14;30;0;0;2;2;3;0;0;{'', 'redecoration'};60.2100261321649;25.0596532099935
+painter;204;14;30;0;0;2;2;3;0;0;{'', 'redecoration'};60.2259539859485;25.0608100309639
+painter;205;14;30;0;0;2;2;3;0;0;{'', 'redecoration'};60.2441038717947;25.0345705959091
+paperboy;206;17;30;2;0;3;0;2;0;0;{'delivery', 'bike'};60.1906352283929;24.9672251788042
+paperboy;207;17;30;2;0;3;0;2;0;0;{'delivery', 'bike'};60.2092618606248;24.8793354049902
+paperboy;208;17;30;2;0;3;0;2;0;0;{'delivery', 'bike'};60.2449205023891;24.9283689395667
+paperboy;209;17;30;2;0;3;0;2;0;0;{'delivery', 'bike'};60.2550335791795;24.8724284904399
+paperboy;210;17;30;2;0;3;0;2;0;0;{'delivery', 'bike'};60.2692929290044;25.0729416939002
+pet-sitter;211;13;25;2;1;2;1;1;1;0;{'outdoors', 'animals', 'activities'};60.1536740919407;25.0719440440921
+pet-sitter;212;13;25;2;1;2;1;1;1;0;{'outdoors', 'animals', 'activities'};60.1559579879919;25.0508952549449
+pet-sitter;213;13;25;2;1;2;1;1;1;0;{'outdoors', 'animals', 'activities'};60.1569451487292;24.8911198751277
+pet-sitter;214;13;25;2;1;2;1;1;1;0;{'outdoors', 'animals', 'activities'};60.157955416592;24.9024089679865
+pet-sitter;215;13;25;2;1;2;1;1;1;0;{'outdoors', 'animals', 'activities'};60.1623694793678;24.9681808076973
+pet-sitter;216;13;25;2;1;2;1;1;1;0;{'outdoors', 'animals', 'activities'};60.1862188602603;25.1461823713644
+pet-sitter;217;13;25;2;1;2;1;1;1;0;{'outdoors', 'animals', 'activities'};60.211024568296;25.142372004962
+pet-sitter;218;13;25;2;1;2;1;1;1;0;{'outdoors', 'animals', 'activities'};60.225644414958;25.1074291319616
+pet-sitter;219;13;25;2;1;2;1;1;1;0;{'outdoors', 'animals', 'activities'};60.231490719051;24.8829321562469
+pet-sitter;220;13;25;2;1;2;1;1;1;0;{'outdoors', 'animals', 'activities'};60.2529695630357;25.141446438469
+photographer;221;17;30;1;0;3;2;1;1;0;{'art', 'photography'};60.1717393709296;24.8576589857736
+photographer;222;17;30;1;0;3;2;1;1;0;{'art', 'photography'};60.2180006588403;24.9906803314535
+photographer;223;17;30;1;0;3;2;1;1;0;{'art', 'photography'};60.2732404240206;25.0396358949871
+receptionist;224;13;30;0;3;1;1;3;0;0;{'customer service', 'hotel'};60.1826062279174;24.9597677597124
+receptionist;225;13;30;0;3;1;1;3;0;0;{'customer service', 'hotel'};60.2491397833587;25.0987786392723
+receptionist;226;13;30;0;3;1;1;3;0;0;{'customer service', 'hotel'};60.2668220557178;24.9339277984627
+receptionist;227;13;30;0;3;1;1;3;0;0;{'customer service', 'hotel'};60.2702614875989;25.1207140882567
+receptionist;228;13;30;0;3;1;1;3;0;0;{'customer service', 'hotel'};60.2756824049145;25.0970077144977
+retail worker;229;10;35;1;3;1;1;3;0;0;{'sales'};60.1528594848402;24.8555020254558
+retail worker;230;10;35;1;3;1;1;3;0;0;{'sales'};60.1861747304065;25.0408560395479
+retail worker;231;10;35;1;3;1;1;3;0;0;{'sales'};60.1931009967194;25.0506461862004
+retail worker;232;10;35;1;3;1;1;3;0;0;{'sales'};60.1945352312586;25.1150042007147
+retail worker;233;10;35;1;3;1;1;3;0;0;{'sales'};60.2128593815236;25.0566282035396
+retail worker;234;10;35;1;3;1;1;3;0;0;{'sales'};60.2232533461726;24.9811540844254
+retail worker;235;10;35;1;3;1;1;3;0;0;{'sales'};60.252572322609;24.9511090956967
+retail worker;236;10;35;1;3;1;1;3;0;0;{'sales'};60.2538337586338;24.980573698964
+retail worker;237;10;35;1;3;1;1;3;0;0;{'sales'};60.2616900869;24.9859963352172
+retail worker;238;10;35;1;3;1;1;3;0;0;{'sales'};60.2689777419285;25.0093275154151
+senior care;239;12;35;1;3;1;2;2;0;0;{'elderly'};60.15408764571;24.9000124706413
+senior care;240;12;35;1;3;1;2;2;0;0;{'elderly'};60.1600482020136;25.0495636225358
+senior care;241;12;35;1;3;1;2;2;0;0;{'elderly'};60.1791467842394;25.0114842573655
+senior care;242;12;35;1;3;1;2;2;0;0;{'elderly'};60.2584459063386;25.1473185453856
+senior care;243;12;35;1;3;1;2;2;0;0;{'elderly'};60.2743722034413;24.9238639219098
+social media manager;244;15;30;0;1;2;0;3;0;1;{'instagram', 'facebook', 'twitter', 'social media', 'internet'};None;None
+software developer;245;22;35;0;0;3;2;1;0;1;{'programming', 'computer'};None;None
+swim instructor;246;12;25;2;3;2;3;1;0;0;{'teaching', 'sports', 'swimming'};60.162222353298;24.8651957082181
+swim instructor;247;12;25;2;3;2;3;1;0;0;{'teaching', 'sports', 'swimming'};60.2250949819478;25.0670679542171
+telemarketer;248;11;30;0;3;3;2;3;0;1;{'sales'};None;None
+ticket seller;249;10;30;0;2;2;1;3;0;0;{'sales', 'customer service'};60.1709025996153;24.946894746533
+ticket seller;250;10;30;0;2;2;1;3;0;0;{'sales', 'customer service'};60.1768777259964;24.9615107377566
+ticket seller;251;10;30;0;2;2;1;3;0;0;{'sales', 'customer service'};60.1953896959204;25.1342181362007
+ticket seller;252;10;30;0;2;2;1;3;0;0;{'sales', 'customer service'};60.2076997726978;24.9868938143647
+ticket seller;253;10;30;0;2;2;1;3;0;0;{'sales', 'customer service'};60.2274678026536;25.0118090704445
+ticket seller;254;10;30;0;2;2;1;3;0;0;{'sales', 'customer service'};60.2476366004688;25.0894006270811
+ticket seller;255;10;30;0;2;2;1;3;0;0;{'sales', 'customer service'};60.2510960233987;24.9973066532581
+ticket seller;256;10;30;0;2;2;1;3;0;0;{'sales', 'customer service'};60.264166477799;24.8953564022086
+ticket seller;257;10;30;0;2;2;1;3;0;0;{'sales', 'customer service'};60.2660671643643;25.0253803591782
+ticket seller;258;10;30;0;2;2;1;3;0;0;{'sales', 'customer service'};60.2722004391486;25.1022488895695
+tour guide;259;13;20;1;3;0;3;2;0;0;{'activities', 'culture'};60.1788392490148;24.8721679256167
+tour guide;260;13;20;1;3;0;3;2;0;0;{'activities', 'culture'};60.1882924925144;24.8998641402775
+tour guide;261;13;20;1;3;0;3;2;0;0;{'activities', 'culture'};60.2228666328992;25.1092438031059
+tutor;262;18;20;0;3;3;3;0;1;1;{'teaching', 'school'};None;None
+waiter;263;7;35;1;2;1;2;2;0;0;{'customer service', 'food'};60.1671702789007;24.9037503192284
+waiter;264;7;35;1;2;1;2;2;0;0;{'customer service', 'food'};60.1684646725699;24.9663579290278
+waiter;265;7;35;1;2;1;2;2;0;0;{'customer service', 'food'};60.1723628520606;25.0136436579646
+waiter;266;7;35;1;2;1;2;2;0;0;{'customer service', 'food'};60.2008966073407;24.9065121532127
+waiter;267;7;35;1;2;1;2;2;0;0;{'customer service', 'food'};60.2141629035055;24.9268030151957
+waiter;268;7;35;1;2;1;2;2;0;0;{'customer service', 'food'};60.2240060094899;25.0262431741319
+waiter;269;7;35;1;2;1;2;2;0;0;{'customer service', 'food'};60.2513100222948;24.9258139398001
+waiter;270;7;35;1;2;1;2;2;0;0;{'customer service', 'food'};60.2567915449021;25.0166617750119
+waiter;271;7;35;1;2;1;2;2;0;0;{'customer service', 'food'};60.2637899029269;25.1442874394115
+waiter;272;7;35;1;2;1;2;2;0;0;{'customer service', 'food'};60.2638581944161;25.0790746876242

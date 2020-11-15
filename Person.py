@@ -6,7 +6,7 @@ class Person:
     def __init__(self, *args):
         self.name = args[0]
         self.vehicle = ("walk", "bicycle", "public", "car")[int(args[1])]
-        self.dist, self.distw = args[2]*60, args[3]
+        self.dist, self.distw = args[2]*30, args[3]
         self.pay, self.payw = args[4], args[5]
         self.hours, self.hoursw = args[6], args[7]
         self.phys, self.physw = args[8], args[9]
@@ -26,7 +26,7 @@ class Person:
         n = 10
         score = 0
         dur = city.route_time(self.pos, job.pos, self.vehicle)
-        if dur == None:
+        if dur is None:
             n -= 1
         else:
             score += sqerr(self.distw, self.dist, max(self.dist, dur*consts.PERSON_FACTOR_WEIGHTS[1]))

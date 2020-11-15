@@ -19,9 +19,17 @@ class Sim:
 
 def route_time(person_pos, job_pos, mode=None):
     # etätyö
-    if job_pos is None:
+    if job_pos in (None, "None", ("None", "None"), (None, None)):
         return None
-    routes = coordinates.find_route(person_pos, job_pos, mode)["data"]["plan"]["itineraries"]
+    route_found = False
+    while not route_found:
+        try:
+            routes = coordinates.find_route(person_pos, job_pos, mode)["data"]["plan"]["itineraries"]
+            route_found = True
+        except:
+            print("O-ou")
+            continue
+
     try:
         route = routes[0]["legs"]
     except IndexError:
