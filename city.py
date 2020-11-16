@@ -53,7 +53,7 @@ def route_times(person_pos, job_positions, mode):
                     result.append(-1)
 
             route_found = True
-        except requests.ConnectTimeout as E:
+        except Exception as E:
             print(E.args)
             print("O-ou")
             continue

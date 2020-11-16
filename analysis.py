@@ -4,7 +4,7 @@ import numpy as np
 
 
 RANKINGS = "data/rankings.csv"
-JOBLIST = "data/jobslist.csv"
+JOBLIST = "data/jobslistfinal.csv"
 PERSONLIST = "data/persondata.csv"
 
 data = pd.read_csv(RANKINGS, delimiter=";", index_col="id")
