@@ -1,10 +1,17 @@
 import csv, consts, random
+import pandas as pd
 
 with open(consts.PERSONPATH) as f:
     n = len(f.readlines()) - 1
 
-with open("persontags.csv", "w") as f:
-    for _ in range(n):
-        k = random.randrange(1, len(consts.TAGS)+1)
-        tags = random.sample(consts.TAGS, k)
-        f.write(", ".join(tags) + "\n")
+
+tags = []
+for _ in range(n):
+    k = random.randrange(3, 5)
+    tags.append(", ".join(random.sample(consts.TAGS, k)))
+
+data = pd.read_csv("data/persondata.csv")
+data["tags"] = tags
+
+
+data.to_csv("data/persondata2.csv")

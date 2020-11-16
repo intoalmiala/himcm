@@ -1,4 +1,5 @@
 import coordinates
+import requests
 
 JOBFILE = NotImplemented
 
@@ -36,4 +37,25 @@ def route_time(person_pos, job_pos, mode=None):
         return -1
     # palauttaa kaikkien liikennevälineiden kestojen summan
     return sum(map(lambda r: r["duration"], route))
+
+def route_times(person_pos, job_positions, mode):
+    route_found = False
+    while not route_found:
+        try:
+            l = [(person_pos, job_pos, mode) for job_pos in job_positions]
+            routes = coordinates.find_routes(l)["data"]
+            result = []
+            for i in range(len(job_positions)):
+                try:
+                    route = routes[f"plan{i}"]["itineraries"][0]["legs"]
+                    result.append(sum(map(lambda r: r["duration"], route)))
+                except IndexError:
+                    result.append(-1)
+
+            route_found = True
+        except requests.ConnectTimeout as E:
+            print(E.args)
+            print("O-ou")
+            continue
+    return result
 

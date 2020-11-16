@@ -1,5 +1,5 @@
 # JOBPATH = "data/jobdata.csv"
-JOBPATH = "data/jobslist.csv"
+JOBPATH = "data/jobslistfinal.csv"
 PERSONPATH = "data/persondata.csv"
 JOBCOORDPATH = "data/jobcoords.csv"
 OUTPUTPATH = "data/rankings.csv"
