@@ -4,7 +4,7 @@ import city
 class Job:
     def __init__(self, title, id_num,  pay, hours, physicality, sociality, flexibility, concentration, monotonity, gig, remote, tags, coords):
         self.title = title
-        self.id = id_num
+        self.id = int(id_num)
         self.pay = pay
         self.hours = hours
         self.phys = physicality

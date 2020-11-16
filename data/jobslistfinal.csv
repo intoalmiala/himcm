@@ -1,273 +1,273 @@
-Job title,Id,Frequency,Salary $/h,Work hours h/w,Physicality (0-3),Sociality (0-3),Flexibility (0-3),Concentration (0-3),Monotonity (0-3),gig (bool),Remote (bool),Tags,PosX,PosY
-amusement park staff,0,1,10,35,0,2,1,2,2,0,0,"sales, customer service",60.17785080394542,24.945085518002955
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.236075272557656,24.893294569287313
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.18150360003642,24.939524235376147
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.21815915582573,24.929126145063023
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.21698574899774,24.86266431691207
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.19968364465743,24.8817666887618
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.185532198568744,24.885214567658373
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.21850835049994,24.93183954762887
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.18358668231186,24.869754728012985
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.203928654757526,24.922051599191338
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.16018573664822,24.89860794092157
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.24020615705066,24.8773892165402
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.227212302988356,24.902445761865266
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.17493106843163,24.91906189331705
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.16905840219921,24.89853976584665
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.20758622277249,24.899683455006016
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.18678708934685,24.905090603658675
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.1841569758655,24.87347940491477
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.231459175711116,24.86884221037839
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.202391865322454,24.889007827825584
-babysitter,1,20,11,25,2,2,2,2,2,1,0,"children, activities",60.19119933823708,24.938447413196418
-baker,2,5,12,30,1,0,1,3,1,0,0,"food, baking",60.22508164105689,24.90624782388453
-baker,2,5,12,30,1,0,1,3,1,0,0,"food, baking",60.216133790453135,24.93801905113518
-baker,2,5,12,30,1,0,1,3,1,0,0,"food, baking",60.190428824073905,24.936018973716216
-baker,2,5,12,30,1,0,1,3,1,0,0,"food, baking",60.16632000106164,24.92932038517324
-baker,2,5,12,30,1,0,1,3,1,0,0,"food, baking",60.19734921498471,24.939652212819613
-bartender,3,10,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.19719950068719,24.88612816607512
-bartender,3,10,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.17039755581335,24.909272307958588
-bartender,3,10,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.17124219269394,24.871763744282365
-bartender,3,10,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.1559771747192,24.95087688602893
-bartender,3,10,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.2087546170239,24.943729980786163
-bartender,3,10,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.23768357502366,24.86040293965229
-bartender,3,10,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.2388319506422,24.87842592773871
-bartender,3,10,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.21868998225298,24.867880206568483
-bartender,3,10,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.22913409173047,24.94280739563969
-bartender,3,10,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.16794211839842,24.860686065301213
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.22547594098307,24.888776183162328
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.19393933070596,24.879044380148915
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.16204612854804,24.902756494692873
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.2336812160613,24.889537548512248
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.190192439782216,24.94363090721306
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.210014873692685,24.9526092920048
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.15838334064925,24.94429477305109
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.20204382685251,24.88839552715059
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.178149134497346,24.90735792837
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.17282694757767,24.950444184280094
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.24107304266607,24.911414623345443
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.23787436297597,24.88376203001955
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.21453358762867,24.888887340200572
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.20281002400375,24.901755437438467
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.24236780027045,24.879957391027972
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.16184366097216,24.903895600196947
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.215072276156384,24.903656937637287
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.211087247042656,24.880212216414925
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.23343506102336,24.90229433935643
-camp counselor,4,20,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.21330590154154,24.87718144238032
-car washer,5,5,9,20,3,1,3,2,3,0,0,"car, cleaning, outdoors",60.22784714782949,24.875721311423536
-car washer,5,5,9,20,3,1,3,2,3,0,0,"car, cleaning, outdoors",60.17639518705739,24.949659552258588
-car washer,5,5,9,20,3,1,3,2,3,0,0,"car, cleaning, outdoors",60.196356604856824,24.877225124551078
-car washer,5,5,9,20,3,1,3,2,3,0,0,"car, cleaning, outdoors",60.166130309256026,24.88526337212502
-car washer,5,5,9,20,3,1,3,2,3,0,0,"car, cleaning, outdoors",60.20345839692736,24.908697354514484
-cashier,6,10,10,35,1,2,2,2,3,0,0,"sales, customer service",60.20203693493309,24.953888704129128
-cashier,6,10,10,35,1,2,2,2,3,0,0,"sales, customer service",60.239923395208606,24.867226058648768
-cashier,6,10,10,35,1,2,2,2,3,0,0,"sales, customer service",60.17089947431357,24.87659605078351
-cashier,6,10,10,35,1,2,2,2,3,0,0,"sales, customer service",60.20736455044728,24.92261219599798
-cashier,6,10,10,35,1,2,2,2,3,0,0,"sales, customer service",60.175304696546746,24.95506029445487
-cashier,6,10,10,35,1,2,2,2,3,0,0,"sales, customer service",60.16290632885193,24.906408980232467
-cashier,6,10,10,35,1,2,2,2,3,0,0,"sales, customer service",60.19895707705262,24.883971837946163
-cashier,6,10,10,35,1,2,2,2,3,0,0,"sales, customer service",60.23473992728875,24.88859129326247
-cashier,6,10,10,35,1,2,2,2,3,0,0,"sales, customer service",60.23607489399192,24.93791665082087
-cashier,6,10,10,35,1,2,2,2,3,0,0,"sales, customer service",60.16008814699644,24.89741285564225
-church worker,7,5,10,35,1,2,1,2,2,0,0,religion,60.20699225629531,24.871098059929928
-church worker,7,5,10,35,1,2,1,2,2,0,0,religion,60.19783303369639,24.908790678285424
-church worker,7,5,10,35,1,2,1,2,2,0,0,religion,60.20109459362767,24.9418656965136
-church worker,7,5,10,35,1,2,1,2,2,0,0,religion,60.239926879858295,24.898446620057527
-church worker,7,5,10,35,1,2,1,2,2,0,0,religion,60.16130031329616,24.899141494731087
-cleaner,8,5,8,25,1,0,2,1,3,0,0,cleaning,60.17360960931468,24.94876903527864
-cleaner,8,5,8,25,1,0,2,1,3,0,0,cleaning,60.23255414458322,24.899960759472087
-cleaner,8,5,8,25,1,0,2,1,3,0,0,cleaning,60.20246637700173,24.910311000596625
-cleaner,8,5,8,25,1,0,2,1,3,0,0,cleaning,60.19500590765627,24.939173970742488
-cleaner,8,5,8,25,1,0,2,1,3,0,0,cleaning,60.202979290265,24.943797783991
-coach,9,2,9,30,3,3,3,3,2,0,0,"sports, teaching, activities",60.243508586641816,24.909237717131273
-coach,9,2,9,30,3,3,3,3,2,0,0,"sports, teaching, activities",60.17045541653869,24.891308811060505
-construction worker,10,5,10,40,2,1,1,3,2,0,0,outdoors,60.23295986780524,24.89492256626121
-construction worker,10,5,10,40,2,1,1,3,2,0,0,outdoors,60.182029632060654,24.94313619037008
-construction worker,10,5,10,40,2,1,1,3,2,0,0,outdoors,60.204044152231674,24.93942939681105
-construction worker,10,5,10,40,2,1,1,3,2,0,0,outdoors,60.19624174268721,24.91938903354784
-construction worker,10,5,10,40,2,1,1,3,2,0,0,outdoors,60.19527872838872,24.95493693858908
-cook,11,5,11,35,1,0,2,3,2,0,0,"food, baking",60.186682541622226,24.889441700743447
-cook,11,5,11,35,1,0,2,3,2,0,0,"food, baking",60.17631717912735,24.911068022771634
-cook,11,5,11,35,1,0,2,3,2,0,0,"food, baking",60.22116074098484,24.871974765685355
-cook,11,5,11,35,1,0,2,3,2,0,0,"food, baking",60.20794558981822,24.939116983325068
-cook,11,5,11,35,1,0,2,3,2,0,0,"food, baking",60.16201111249927,24.94977694976449
-customer service,12,1,10,40,0,3,2,1,3,0,1,customer service,,
-delivery person,13,10,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.21006087140644,24.953854667070054
-delivery person,13,10,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.17855497329026,24.93547236658948
-delivery person,13,10,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.23625882966258,24.86622789163224
-delivery person,13,10,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.22154469677989,24.90796114366013
-delivery person,13,10,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.243443268142975,24.889444289974538
-delivery person,13,10,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.18967348665238,24.86950226648145
-delivery person,13,10,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.21891280658307,24.906176451864727
-delivery person,13,10,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.21423032530012,24.8657464584198
-delivery person,13,10,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.155688826008465,24.864383554918057
-delivery person,13,10,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.22754985488846,24.915963554345318
-dishwasher,14,5,10,30,1,0,1,2,3,0,0,cleaning,60.19207483984204,24.91289292831959
-dishwasher,14,5,10,30,1,0,1,2,3,0,0,cleaning,60.22544753053484,24.94064178879532
-dishwasher,14,5,10,30,1,0,1,2,3,0,0,cleaning,60.21298210607005,24.865315474804238
-dishwasher,14,5,10,30,1,0,1,2,3,0,0,cleaning,60.15596816889554,24.90386365147078
-dishwasher,14,5,10,30,1,0,1,2,3,0,0,cleaning,60.23456631377717,24.882940884535714
-farm worker,15,5,12,35,2,1,1,2,2,0,0,"animals, food, plants, outdoors",60.203779592397105,24.948348904177042
-farm worker,15,5,12,35,2,1,1,2,2,0,0,"animals, food, plants, outdoors",60.17794044298645,24.88734377493905
-farm worker,15,5,12,35,2,1,1,2,2,0,0,"animals, food, plants, outdoors",60.18434147114888,24.90536848901752
-farm worker,15,5,12,35,2,1,1,2,2,0,0,"animals, food, plants, outdoors",60.171086930067645,24.90548127687403
-farm worker,15,5,12,35,2,1,1,2,2,0,0,"animals, food, plants, outdoors",60.19914934197972,24.927222040277826
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.215527348859865,24.896278032930258
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.169180239469604,24.90788528814911
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.171122172227705,24.9519538486864
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.15954144803149,24.881116840029662
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.18509074089538,24.952968140692484
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.16591832346321,24.95146042742373
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.177250158315,24.93294292759889
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.225613520374154,24.92619602033761
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.200659210688656,24.87558821278752
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.177096025575075,24.88189408350237
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.204112629950046,24.875395360600514
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.15785712748861,24.917480224775797
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.20222248104138,24.903098623519746
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.162238855439774,24.93160625231976
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.15671305770661,24.925865946246052
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.220737039445666,24.8810475367618
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.225935247466076,24.87596121113959
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.160549311634284,24.923745402279202
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.168952608414536,24.88294505210745
-fast food worker,16,20,9,24,1,0,1,3,3,0,0,"food, customer service",60.24358687413105,24.872891583906053
-garbage collector,17,5,9,30,1,0,2,1,3,0,0,"cleaning, outdoors",60.237974572724355,24.860036705305728
-garbage collector,17,5,9,30,1,0,2,1,3,0,0,"cleaning, outdoors",60.20702978093873,24.8719210794034
-garbage collector,17,5,9,30,1,0,2,1,3,0,0,"cleaning, outdoors",60.2119307042046,24.950047872969364
-garbage collector,17,5,9,30,1,0,2,1,3,0,0,"cleaning, outdoors",60.24016702470157,24.870213742599024
-garbage collector,17,5,9,30,1,0,2,1,3,0,0,"cleaning, outdoors",60.16622163369515,24.88385747399155
-gardener,18,3,11,30,1,0,3,1,2,0,0,"plants, gardening",60.18699723125568,24.937201391983237
-gardener,18,3,11,30,1,0,3,1,2,0,0,"plants, gardening",60.1989219522175,24.871410263503154
-gardener,18,3,11,30,1,0,3,1,2,0,0,"plants, gardening",60.2426164784036,24.94804226430247
-golf caddy,19,3,10,40,2,1,3,2,2,0,0,"sports, outdoors, activities",60.19553785267151,24.890832750113354
-golf caddy,19,3,10,40,2,1,3,2,2,0,0,"sports, outdoors, activities",60.17346542808762,24.881376756005388
-golf caddy,19,3,10,40,2,1,3,2,2,0,0,"sports, outdoors, activities",60.186354338594676,24.93678708598302
-graphic designer,20,1,12,30,0,1,2,2,1,1,1,"art, computers",,
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.237669292608636,24.90522092213148
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.239357187541906,24.929949658669468
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.18100729113519,24.92280277868052
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.15942687408108,24.92271226875448
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.227995372796364,24.870107830366983
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.18670316657475,24.85991396907365
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.1867482525097,24.86747744687213
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.165926578532286,24.91908375016595
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.20942167833263,24.91759263106822
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.18156704326572,24.869487353009802
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.2296268716187,24.884053623476444
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.19921109489608,24.920709769875327
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.17866903303173,24.94627912879077
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.24352067901139,24.93469244801545
-housekeeper,21,15,10,30,1,0,1,2,2,0,0,cleaning,60.20905988552205,24.94744750595673
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.16810592602162,24.90356545322317
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.20546884712717,24.93657649512907
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.21825288997886,24.906841182649924
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.19994308539594,24.925407006734968
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.23116943219442,24.899349828962897
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.166106574547605,24.94944378516828
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.22233746160223,24.887114465474927
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.2408129296299,24.924454976634568
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.16898459722038,24.889070916202048
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.22063759293602,24.892979810862627
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.188346584266434,24.901185991673145
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.190193426152284,24.92480141290493
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.22701054007843,24.8997885096425
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.17081757548357,24.87995421988171
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.21982546911992,24.9517128902146
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.16244813633215,24.890735351923045
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.160425837852344,24.906119114807066
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.23875977189466,24.86776608965169
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.173742434661406,24.86991337078135
-ice cream seller,22,20,8,35,0,2,1,1,3,0,0,"food, customer service",60.167706219422676,24.894609313443603
-IT support,23,1,11,30,0,2,2,1,2,0,1,"computer, programming",,
-lawnmower,24,5,9,30,2,0,3,1,3,1,0,"gardening, outdoors",60.20774575799961,24.90489087856783
-lawnmower,24,5,9,30,2,0,3,1,3,1,0,"gardening, outdoors",60.224027908165894,24.86731026834445
-lawnmower,24,5,9,30,2,0,3,1,3,1,0,"gardening, outdoors",60.226662854125344,24.93474528359478
-lawnmower,24,5,9,30,2,0,3,1,3,1,0,"gardening, outdoors",60.21447428755083,24.906707688170165
-lawnmower,24,5,9,30,2,0,3,1,3,1,0,"gardening, outdoors",60.172859711653345,24.93897710929112
-library assistant,25,3,10,30,1,2,1,1,3,0,0,"books, cutomer service, literature",60.18520857492237,24.94331283912793
-library assistant,25,3,10,30,1,2,1,1,3,0,0,"books, cutomer service, literature",60.24002574035967,24.882405590148128
-library assistant,25,3,10,30,1,2,1,1,3,0,0,"books, cutomer service, literature",60.18925795267026,24.93537264634134
-lifeguard,26,5,10,35,3,2,1,1,3,0,0,swimming,60.220831196008255,24.91562505674043
-lifeguard,26,5,10,35,3,2,1,1,3,0,0,swimming,60.19797573010992,24.950970982906732
-lifeguard,26,5,10,35,3,2,1,1,3,0,0,swimming,60.22091833350676,24.948054036964816
-lifeguard,26,5,10,35,3,2,1,1,3,0,0,swimming,60.18838076810661,24.94206731531609
-lifeguard,26,5,10,35,3,2,1,1,3,0,0,swimming,60.1976267187218,24.875327778137198
-movie theater worker,27,5,10,30,0,2,1,1,2,0,0,"sales, movies, customer service",60.171433244602305,24.9070272185884
-movie theater worker,27,5,10,30,0,2,1,1,2,0,0,"sales, movies, customer service",60.170988123840274,24.93034976911973
-movie theater worker,27,5,10,30,0,2,1,1,2,0,0,"sales, movies, customer service",60.20994239403686,24.86336976796125
-movie theater worker,27,5,10,30,0,2,1,1,2,0,0,"sales, movies, customer service",60.21592635593166,24.93790225059362
-movie theater worker,27,5,10,30,0,2,1,1,2,0,0,"sales, movies, customer service",60.241903714758365,24.9182591956938
-painter,28,5,9,30,0,0,2,2,3,0,0,"redecoration, ",60.15533871683716,24.94850506168005
-painter,28,5,9,30,0,0,2,2,3,0,0,"redecoration, ",60.1970087108126,24.919941463118445
-painter,28,5,9,30,0,0,2,2,3,0,0,"redecoration, ",60.22546688568576,24.868650653277825
-painter,28,5,9,30,0,0,2,2,3,0,0,"redecoration, ",60.20648410918432,24.871508272476284
-painter,28,5,9,30,0,0,2,2,3,0,0,"redecoration, ",60.16489958701593,24.896911655757183
-paperboy,29,5,8,30,2,0,3,0,2,0,0,"delivery, bike",60.22547052974882,24.861340842275556
-paperboy,29,5,8,30,2,0,3,0,2,0,0,"delivery, bike",60.178283495571186,24.896355712658515
-paperboy,29,5,8,30,2,0,3,0,2,0,0,"delivery, bike",60.17212170340667,24.95001073256674
-paperboy,29,5,8,30,2,0,3,0,2,0,0,"delivery, bike",60.16554353592193,24.916950347537924
-paperboy,29,5,8,30,2,0,3,0,2,0,0,"delivery, bike",60.19239556054452,24.939715719611844
-pet-sitter,30,10,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.20843890560624,24.921760553723093
-pet-sitter,30,10,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.18168818523636,24.952616399320625
-pet-sitter,30,10,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.182450039167655,24.921959167696148
-pet-sitter,30,10,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.19611401310748,24.90941700587745
-pet-sitter,30,10,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.18886995582057,24.90493706353456
-pet-sitter,30,10,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.190278325345275,24.90903033386921
-pet-sitter,30,10,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.2028089053581,24.94542342220472
-pet-sitter,30,10,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.20894716760575,24.926744250492845
-pet-sitter,30,10,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.17033793249444,24.875436378273157
-pet-sitter,30,10,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.16124481292201,24.95308517957884
-photographer,31,3,12,30,1,0,3,2,1,1,0,"art, photography",60.24337268355902,24.886181811035033
-photographer,31,3,12,30,1,0,3,2,1,1,0,"art, photography",60.23858263566218,24.95384099893357
-photographer,31,3,12,30,1,0,3,2,1,1,0,"art, photography",60.19015420836558,24.917209653138126
-receptionist,32,5,10,30,0,3,1,1,3,0,0,"customer service, hotel",60.18855006703066,24.91591861316937
-receptionist,32,5,10,30,0,3,1,1,3,0,0,"customer service, hotel",60.22918990558453,24.90089044266537
-receptionist,32,5,10,30,0,3,1,1,3,0,0,"customer service, hotel",60.16864600716404,24.935633919097533
-receptionist,32,5,10,30,0,3,1,1,3,0,0,"customer service, hotel",60.1861399856209,24.877680693623496
-receptionist,32,5,10,30,0,3,1,1,3,0,0,"customer service, hotel",60.197182189021596,24.939312524805885
-retail worker,33,10,10,35,1,3,1,1,3,0,0,sales,60.21346576905344,24.93639818600073
-retail worker,33,10,10,35,1,3,1,1,3,0,0,sales,60.20601077673874,24.887856908170985
-retail worker,33,10,10,35,1,3,1,1,3,0,0,sales,60.17708071493735,24.947435083609122
-retail worker,33,10,10,35,1,3,1,1,3,0,0,sales,60.23432891911922,24.95425150042469
-retail worker,33,10,10,35,1,3,1,1,3,0,0,sales,60.16734165255034,24.95148233121833
-retail worker,33,10,10,35,1,3,1,1,3,0,0,sales,60.182599712991106,24.9397604942859
-retail worker,33,10,10,35,1,3,1,1,3,0,0,sales,60.195383499886134,24.94495653065044
-retail worker,33,10,10,35,1,3,1,1,3,0,0,sales,60.22033712703155,24.862875889001156
-retail worker,33,10,10,35,1,3,1,1,3,0,0,sales,60.202450192205156,24.8607375777296
-retail worker,33,10,10,35,1,3,1,1,3,0,0,sales,60.22110458402561,24.950513619843502
-senior care,34,5,12,35,1,3,1,2,2,0,0,elderly,60.16785565827009,24.93955986814024
-senior care,34,5,12,35,1,3,1,2,2,0,0,elderly,60.16207664835726,24.898097957099623
-senior care,34,5,12,35,1,3,1,2,2,0,0,elderly,60.22624724439714,24.87392237739252
-senior care,34,5,12,35,1,3,1,2,2,0,0,elderly,60.2363550341162,24.92849808974257
-senior care,34,5,12,35,1,3,1,2,2,0,0,elderly,60.1960674901021,24.938903129577042
-social media manager,35,1,9,30,0,1,2,0,3,0,1,"social media, instagram, twitter, internet, facebook",,
-software developer,36,1,12,35,0,0,3,2,1,0,1,"computer, programming",,
-swim instructor,37,2,12,25,2,3,2,3,1,0,0,"swimming, teaching, sports",60.166376320824064,24.87990777950939
-swim instructor,37,2,12,25,2,3,2,3,1,0,0,"swimming, teaching, sports",60.22613372001794,24.93832223486412
-telemarketer,38,1,11,30,0,3,3,2,3,0,1,sales,,
-ticket seller,39,10,10,30,0,2,2,1,3,0,0,"sales, customer service",60.232782713438795,24.919313050330658
-ticket seller,39,10,10,30,0,2,2,1,3,0,0,"sales, customer service",60.1869910516463,24.931288360987267
-ticket seller,39,10,10,30,0,2,2,1,3,0,0,"sales, customer service",60.2264250086171,24.92250595368232
-ticket seller,39,10,10,30,0,2,2,1,3,0,0,"sales, customer service",60.19365195235624,24.872784669261407
-ticket seller,39,10,10,30,0,2,2,1,3,0,0,"sales, customer service",60.18405839996726,24.90631375941109
-ticket seller,39,10,10,30,0,2,2,1,3,0,0,"sales, customer service",60.201388367812214,24.944749339105872
-ticket seller,39,10,10,30,0,2,2,1,3,0,0,"sales, customer service",60.169075896428865,24.894007921635467
-ticket seller,39,10,10,30,0,2,2,1,3,0,0,"sales, customer service",60.23459030677848,24.916288969319268
-ticket seller,39,10,10,30,0,2,2,1,3,0,0,"sales, customer service",60.160997866402596,24.92140977296774
-ticket seller,39,10,10,30,0,2,2,1,3,0,0,"sales, customer service",60.20773293140548,24.914273226315842
-tour guide,40,3,12,20,1,3,0,3,2,0,0,"culture, activities",60.172524721653645,24.950502531701716
-tour guide,40,3,12,20,1,3,0,3,2,0,0,"culture, activities",60.16367094707609,24.923769769266013
-tour guide,40,3,12,20,1,3,0,3,2,0,0,"culture, activities",60.195825448121006,24.884995692440306
-tutor,41,1,18,10,0,3,3,3,0,1,1,"teaching, school",,
-waiter,42,10,7,35,1,2,1,2,2,0,0,"food, customer service",60.18639600681343,24.879003937254407
-waiter,42,10,7,35,1,2,1,2,2,0,0,"food, customer service",60.21700381465303,24.95453481124583
-waiter,42,10,7,35,1,2,1,2,2,0,0,"food, customer service",60.240879082358816,24.95094190175099
-waiter,42,10,7,35,1,2,1,2,2,0,0,"food, customer service",60.203162523606274,24.93424603883913
-waiter,42,10,7,35,1,2,1,2,2,0,0,"food, customer service",60.239244804101325,24.910569486688672
-waiter,42,10,7,35,1,2,1,2,2,0,0,"food, customer service",60.205743984412784,24.94289041382203
-waiter,42,10,7,35,1,2,1,2,2,0,0,"food, customer service",60.18857197450742,24.929942800359125
-waiter,42,10,7,35,1,2,1,2,2,0,0,"food, customer service",60.20800810714018,24.932212916952647
-waiter,42,10,7,35,1,2,1,2,2,0,0,"food, customer service",60.157382052455596,24.93088537205121
-waiter,42,10,7,35,1,2,1,2,2,0,0,"food, customer service",60.211656041298454,24.94484659025109
+Job title,Id,Salary $/h,Work hours h/w,Physicality (0-3),Sociality (0-3),Flexibility (0-3),Concentration (0-3),Monotonity (0-3),gig (bool),Remote (bool),Tags,PosX,PosY
+amusement park staff,1,10,35,0,2,1,2,2,0,0,"sales, customer service",60.1778508,24.94508552
+babysitter,2,11,25,2,2,2,2,2,1,0,"children, activities",60.23607527,24.89329457
+babysitter,3,11,25,2,2,2,2,2,1,0,"children, activities",60.1815036,24.93952424
+babysitter,4,11,25,2,2,2,2,2,1,0,"children, activities",60.21815916,24.92912615
+babysitter,5,11,25,2,2,2,2,2,1,0,"children, activities",60.21698575,24.86266432
+babysitter,6,11,25,2,2,2,2,2,1,0,"children, activities",60.19968364,24.88176669
+babysitter,7,11,25,2,2,2,2,2,1,0,"children, activities",60.1855322,24.88521457
+babysitter,8,11,25,2,2,2,2,2,1,0,"children, activities",60.21850835,24.93183955
+babysitter,9,11,25,2,2,2,2,2,1,0,"children, activities",60.18358668,24.86975473
+babysitter,10,11,25,2,2,2,2,2,1,0,"children, activities",60.20392865,24.9220516
+babysitter,11,11,25,2,2,2,2,2,1,0,"children, activities",60.16018574,24.89860794
+babysitter,12,11,25,2,2,2,2,2,1,0,"children, activities",60.24020616,24.87738922
+babysitter,13,11,25,2,2,2,2,2,1,0,"children, activities",60.2272123,24.90244576
+babysitter,14,11,25,2,2,2,2,2,1,0,"children, activities",60.17493107,24.91906189
+babysitter,15,11,25,2,2,2,2,2,1,0,"children, activities",60.1690584,24.89853977
+babysitter,16,11,25,2,2,2,2,2,1,0,"children, activities",60.20758622,24.89968346
+babysitter,17,11,25,2,2,2,2,2,1,0,"children, activities",60.18678709,24.9050906
+babysitter,18,11,25,2,2,2,2,2,1,0,"children, activities",60.18415698,24.8734794
+babysitter,19,11,25,2,2,2,2,2,1,0,"children, activities",60.23145918,24.86884221
+babysitter,20,11,25,2,2,2,2,2,1,0,"children, activities",60.20239187,24.88900783
+babysitter,21,11,25,2,2,2,2,2,1,0,"children, activities",60.19119934,24.93844741
+baker,22,12,30,1,0,1,3,1,0,0,"food, baking",60.22508164,24.90624782
+baker,23,12,30,1,0,1,3,1,0,0,"food, baking",60.21613379,24.93801905
+baker,24,12,30,1,0,1,3,1,0,0,"food, baking",60.19042882,24.93601897
+baker,25,12,30,1,0,1,3,1,0,0,"food, baking",60.16632,24.92932039
+baker,26,12,30,1,0,1,3,1,0,0,"food, baking",60.19734921,24.93965221
+bartender,27,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.1971995,24.88612817
+bartender,28,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.17039756,24.90927231
+bartender,29,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.17124219,24.87176374
+bartender,30,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.15597717,24.95087689
+bartender,31,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.20875462,24.94372998
+bartender,32,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.23768358,24.86040294
+bartender,33,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.23883195,24.87842593
+bartender,34,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.21868998,24.86788021
+bartender,35,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.22913409,24.9428074
+bartender,36,10,35,0,2,1,2,2,0,0,"beer, wine, drinks, coctails, legal age",60.16794212,24.86068607
+camp counselor,37,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.22547594,24.88877618
+camp counselor,38,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.19393933,24.87904438
+camp counselor,39,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.16204613,24.90275649
+camp counselor,40,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.23368122,24.88953755
+camp counselor,41,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.19019244,24.94363091
+camp counselor,42,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.21001487,24.95260929
+camp counselor,43,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.15838334,24.94429477
+camp counselor,44,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.20204383,24.88839553
+camp counselor,45,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.17814913,24.90735793
+camp counselor,46,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.17282695,24.95044418
+camp counselor,47,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.24107304,24.91141462
+camp counselor,48,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.23787436,24.88376203
+camp counselor,49,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.21453359,24.88888734
+camp counselor,50,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.20281002,24.90175544
+camp counselor,51,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.2423678,24.87995739
+camp counselor,52,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.16184366,24.9038956
+camp counselor,53,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.21507228,24.90365694
+camp counselor,54,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.21108725,24.88021222
+camp counselor,55,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.23343506,24.90229434
+camp counselor,56,10,40,2,3,0,3,0,0,0,"children, outdoors, activities",60.2133059,24.87718144
+car washer,57,9,20,3,1,3,2,3,0,0,"car, cleaning, outdoors",60.22784715,24.87572131
+car washer,58,9,20,3,1,3,2,3,0,0,"car, cleaning, outdoors",60.17639519,24.94965955
+car washer,59,9,20,3,1,3,2,3,0,0,"car, cleaning, outdoors",60.1963566,24.87722512
+car washer,60,9,20,3,1,3,2,3,0,0,"car, cleaning, outdoors",60.16613031,24.88526337
+car washer,61,9,20,3,1,3,2,3,0,0,"car, cleaning, outdoors",60.2034584,24.90869735
+cashier,62,10,35,1,2,2,2,3,0,0,"sales, customer service",60.20203693,24.9538887
+cashier,63,10,35,1,2,2,2,3,0,0,"sales, customer service",60.2399234,24.86722606
+cashier,64,10,35,1,2,2,2,3,0,0,"sales, customer service",60.17089947,24.87659605
+cashier,65,10,35,1,2,2,2,3,0,0,"sales, customer service",60.20736455,24.9226122
+cashier,66,10,35,1,2,2,2,3,0,0,"sales, customer service",60.1753047,24.95506029
+cashier,67,10,35,1,2,2,2,3,0,0,"sales, customer service",60.16290633,24.90640898
+cashier,68,10,35,1,2,2,2,3,0,0,"sales, customer service",60.19895708,24.88397184
+cashier,69,10,35,1,2,2,2,3,0,0,"sales, customer service",60.23473993,24.88859129
+cashier,70,10,35,1,2,2,2,3,0,0,"sales, customer service",60.23607489,24.93791665
+cashier,71,10,35,1,2,2,2,3,0,0,"sales, customer service",60.16008815,24.89741286
+church worker,72,10,35,1,2,1,2,2,0,0,religion,60.20699226,24.87109806
+church worker,73,10,35,1,2,1,2,2,0,0,religion,60.19783303,24.90879068
+church worker,74,10,35,1,2,1,2,2,0,0,religion,60.20109459,24.9418657
+church worker,75,10,35,1,2,1,2,2,0,0,religion,60.23992688,24.89844662
+church worker,76,10,35,1,2,1,2,2,0,0,religion,60.16130031,24.89914149
+cleaner,77,8,25,1,0,2,1,3,0,0,cleaning,60.17360961,24.94876904
+cleaner,78,8,25,1,0,2,1,3,0,0,cleaning,60.23255414,24.89996076
+cleaner,79,8,25,1,0,2,1,3,0,0,cleaning,60.20246638,24.910311
+cleaner,80,8,25,1,0,2,1,3,0,0,cleaning,60.19500591,24.93917397
+cleaner,81,8,25,1,0,2,1,3,0,0,cleaning,60.20297929,24.94379778
+coach,82,9,30,3,3,3,3,2,0,0,"sports, teaching, activities",60.24350859,24.90923772
+coach,83,9,30,3,3,3,3,2,0,0,"sports, teaching, activities",60.17045542,24.89130881
+construction worker,84,10,40,2,1,1,3,2,0,0,outdoors,60.23295987,24.89492257
+construction worker,85,10,40,2,1,1,3,2,0,0,outdoors,60.18202963,24.94313619
+construction worker,86,10,40,2,1,1,3,2,0,0,outdoors,60.20404415,24.9394294
+construction worker,87,10,40,2,1,1,3,2,0,0,outdoors,60.19624174,24.91938903
+construction worker,88,10,40,2,1,1,3,2,0,0,outdoors,60.19527873,24.95493694
+cook,89,11,35,1,0,2,3,2,0,0,"food, baking",60.18668254,24.8894417
+cook,90,11,35,1,0,2,3,2,0,0,"food, baking",60.17631718,24.91106802
+cook,91,11,35,1,0,2,3,2,0,0,"food, baking",60.22116074,24.87197477
+cook,92,11,35,1,0,2,3,2,0,0,"food, baking",60.20794559,24.93911698
+cook,93,11,35,1,0,2,3,2,0,0,"food, baking",60.16201111,24.94977695
+customer service,94,10,40,0,3,2,1,3,0,1,customer service,,
+delivery person,95,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.21006087,24.95385467
+delivery person,96,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.17855497,24.93547237
+delivery person,97,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.23625883,24.86622789
+delivery person,98,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.2215447,24.90796114
+delivery person,99,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.24344327,24.88944429
+delivery person,100,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.18967349,24.86950227
+delivery person,101,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.21891281,24.90617645
+delivery person,102,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.21423033,24.86574646
+delivery person,103,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.15568883,24.86438355
+delivery person,104,11,30,1,0,3,1,2,1,0,"car, bike, delivery",60.22754985,24.91596355
+dishwasher,105,10,30,1,0,1,2,3,0,0,cleaning,60.19207484,24.91289293
+dishwasher,106,10,30,1,0,1,2,3,0,0,cleaning,60.22544753,24.94064179
+dishwasher,107,10,30,1,0,1,2,3,0,0,cleaning,60.21298211,24.86531547
+dishwasher,108,10,30,1,0,1,2,3,0,0,cleaning,60.15596817,24.90386365
+dishwasher,109,10,30,1,0,1,2,3,0,0,cleaning,60.23456631,24.88294088
+farm worker,110,12,35,2,1,1,2,2,0,0,"animals, food, plants, outdoors",60.20377959,24.9483489
+farm worker,111,12,35,2,1,1,2,2,0,0,"animals, food, plants, outdoors",60.17794044,24.88734377
+farm worker,112,12,35,2,1,1,2,2,0,0,"animals, food, plants, outdoors",60.18434147,24.90536849
+farm worker,113,12,35,2,1,1,2,2,0,0,"animals, food, plants, outdoors",60.17108693,24.90548128
+farm worker,114,12,35,2,1,1,2,2,0,0,"animals, food, plants, outdoors",60.19914934,24.92722204
+fast food worker,115,9,24,1,0,1,3,3,0,0,"food, customer service",60.21552735,24.89627803
+fast food worker,116,9,24,1,0,1,3,3,0,0,"food, customer service",60.16918024,24.90788529
+fast food worker,117,9,24,1,0,1,3,3,0,0,"food, customer service",60.17112217,24.95195385
+fast food worker,118,9,24,1,0,1,3,3,0,0,"food, customer service",60.15954145,24.88111684
+fast food worker,119,9,24,1,0,1,3,3,0,0,"food, customer service",60.18509074,24.95296814
+fast food worker,120,9,24,1,0,1,3,3,0,0,"food, customer service",60.16591832,24.95146043
+fast food worker,121,9,24,1,0,1,3,3,0,0,"food, customer service",60.17725016,24.93294293
+fast food worker,122,9,24,1,0,1,3,3,0,0,"food, customer service",60.22561352,24.92619602
+fast food worker,123,9,24,1,0,1,3,3,0,0,"food, customer service",60.20065921,24.87558821
+fast food worker,124,9,24,1,0,1,3,3,0,0,"food, customer service",60.17709603,24.88189408
+fast food worker,125,9,24,1,0,1,3,3,0,0,"food, customer service",60.20411263,24.87539536
+fast food worker,126,9,24,1,0,1,3,3,0,0,"food, customer service",60.15785713,24.91748022
+fast food worker,127,9,24,1,0,1,3,3,0,0,"food, customer service",60.20222248,24.90309862
+fast food worker,128,9,24,1,0,1,3,3,0,0,"food, customer service",60.16223886,24.93160625
+fast food worker,129,9,24,1,0,1,3,3,0,0,"food, customer service",60.15671306,24.92586595
+fast food worker,130,9,24,1,0,1,3,3,0,0,"food, customer service",60.22073704,24.88104754
+fast food worker,131,9,24,1,0,1,3,3,0,0,"food, customer service",60.22593525,24.87596121
+fast food worker,132,9,24,1,0,1,3,3,0,0,"food, customer service",60.16054931,24.9237454
+fast food worker,133,9,24,1,0,1,3,3,0,0,"food, customer service",60.16895261,24.88294505
+fast food worker,134,9,24,1,0,1,3,3,0,0,"food, customer service",60.24358687,24.87289158
+garbage collector,135,9,30,1,0,2,1,3,0,0,"cleaning, outdoors",60.23797457,24.86003671
+garbage collector,136,9,30,1,0,2,1,3,0,0,"cleaning, outdoors",60.20702978,24.87192108
+garbage collector,137,9,30,1,0,2,1,3,0,0,"cleaning, outdoors",60.2119307,24.95004787
+garbage collector,138,9,30,1,0,2,1,3,0,0,"cleaning, outdoors",60.24016702,24.87021374
+garbage collector,139,9,30,1,0,2,1,3,0,0,"cleaning, outdoors",60.16622163,24.88385747
+gardener,140,11,30,1,0,3,1,2,0,0,"plants, gardening",60.18699723,24.93720139
+gardener,141,11,30,1,0,3,1,2,0,0,"plants, gardening",60.19892195,24.87141026
+gardener,142,11,30,1,0,3,1,2,0,0,"plants, gardening",60.24261648,24.94804226
+golf caddy,143,10,40,2,1,3,2,2,0,0,"sports, outdoors, activities",60.19553785,24.89083275
+golf caddy,144,10,40,2,1,3,2,2,0,0,"sports, outdoors, activities",60.17346543,24.88137676
+golf caddy,145,10,40,2,1,3,2,2,0,0,"sports, outdoors, activities",60.18635434,24.93678709
+graphic designer,146,12,30,0,1,2,2,1,1,1,"art, computers",,
+housekeeper,147,10,30,1,0,1,2,2,0,0,cleaning,60.23766929,24.90522092
+housekeeper,148,10,30,1,0,1,2,2,0,0,cleaning,60.23935719,24.92994966
+housekeeper,149,10,30,1,0,1,2,2,0,0,cleaning,60.18100729,24.92280278
+housekeeper,150,10,30,1,0,1,2,2,0,0,cleaning,60.15942687,24.92271227
+housekeeper,151,10,30,1,0,1,2,2,0,0,cleaning,60.22799537,24.87010783
+housekeeper,152,10,30,1,0,1,2,2,0,0,cleaning,60.18670317,24.85991397
+housekeeper,153,10,30,1,0,1,2,2,0,0,cleaning,60.18674825,24.86747745
+housekeeper,154,10,30,1,0,1,2,2,0,0,cleaning,60.16592658,24.91908375
+housekeeper,155,10,30,1,0,1,2,2,0,0,cleaning,60.20942168,24.91759263
+housekeeper,156,10,30,1,0,1,2,2,0,0,cleaning,60.18156704,24.86948735
+housekeeper,157,10,30,1,0,1,2,2,0,0,cleaning,60.22962687,24.88405362
+housekeeper,158,10,30,1,0,1,2,2,0,0,cleaning,60.19921109,24.92070977
+housekeeper,159,10,30,1,0,1,2,2,0,0,cleaning,60.17866903,24.94627913
+housekeeper,160,10,30,1,0,1,2,2,0,0,cleaning,60.24352068,24.93469245
+housekeeper,161,10,30,1,0,1,2,2,0,0,cleaning,60.20905989,24.94744751
+ice cream seller,162,8,35,0,2,1,1,3,0,0,"food, customer service",60.16810593,24.90356545
+ice cream seller,163,8,35,0,2,1,1,3,0,0,"food, customer service",60.20546885,24.9365765
+ice cream seller,164,8,35,0,2,1,1,3,0,0,"food, customer service",60.21825289,24.90684118
+ice cream seller,165,8,35,0,2,1,1,3,0,0,"food, customer service",60.19994309,24.92540701
+ice cream seller,166,8,35,0,2,1,1,3,0,0,"food, customer service",60.23116943,24.89934983
+ice cream seller,167,8,35,0,2,1,1,3,0,0,"food, customer service",60.16610657,24.94944379
+ice cream seller,168,8,35,0,2,1,1,3,0,0,"food, customer service",60.22233746,24.88711447
+ice cream seller,169,8,35,0,2,1,1,3,0,0,"food, customer service",60.24081293,24.92445498
+ice cream seller,170,8,35,0,2,1,1,3,0,0,"food, customer service",60.1689846,24.88907092
+ice cream seller,171,8,35,0,2,1,1,3,0,0,"food, customer service",60.22063759,24.89297981
+ice cream seller,172,8,35,0,2,1,1,3,0,0,"food, customer service",60.18834658,24.90118599
+ice cream seller,173,8,35,0,2,1,1,3,0,0,"food, customer service",60.19019343,24.92480141
+ice cream seller,174,8,35,0,2,1,1,3,0,0,"food, customer service",60.22701054,24.89978851
+ice cream seller,175,8,35,0,2,1,1,3,0,0,"food, customer service",60.17081758,24.87995422
+ice cream seller,176,8,35,0,2,1,1,3,0,0,"food, customer service",60.21982547,24.95171289
+ice cream seller,177,8,35,0,2,1,1,3,0,0,"food, customer service",60.16244814,24.89073535
+ice cream seller,178,8,35,0,2,1,1,3,0,0,"food, customer service",60.16042584,24.90611911
+ice cream seller,179,8,35,0,2,1,1,3,0,0,"food, customer service",60.23875977,24.86776609
+ice cream seller,180,8,35,0,2,1,1,3,0,0,"food, customer service",60.17374243,24.86991337
+ice cream seller,181,8,35,0,2,1,1,3,0,0,"food, customer service",60.16770622,24.89460931
+IT support,182,11,30,0,2,2,1,2,0,1,"computer, programming",,
+lawnmower,183,9,30,2,0,3,1,3,1,0,"gardening, outdoors",60.20774576,24.90489088
+lawnmower,184,9,30,2,0,3,1,3,1,0,"gardening, outdoors",60.22402791,24.86731027
+lawnmower,185,9,30,2,0,3,1,3,1,0,"gardening, outdoors",60.22666285,24.93474528
+lawnmower,186,9,30,2,0,3,1,3,1,0,"gardening, outdoors",60.21447429,24.90670769
+lawnmower,187,9,30,2,0,3,1,3,1,0,"gardening, outdoors",60.17285971,24.93897711
+library assistant,188,10,30,1,2,1,1,3,0,0,"books, cutomer service, literature",60.18520857,24.94331284
+library assistant,189,10,30,1,2,1,1,3,0,0,"books, cutomer service, literature",60.24002574,24.88240559
+library assistant,190,10,30,1,2,1,1,3,0,0,"books, cutomer service, literature",60.18925795,24.93537265
+lifeguard,191,10,35,3,2,1,1,3,0,0,swimming,60.2208312,24.91562506
+lifeguard,192,10,35,3,2,1,1,3,0,0,swimming,60.19797573,24.95097098
+lifeguard,193,10,35,3,2,1,1,3,0,0,swimming,60.22091833,24.94805404
+lifeguard,194,10,35,3,2,1,1,3,0,0,swimming,60.18838077,24.94206732
+lifeguard,195,10,35,3,2,1,1,3,0,0,swimming,60.19762672,24.87532778
+movie theater worker,196,10,30,0,2,1,1,2,0,0,"sales, movies, customer service",60.17143324,24.90702722
+movie theater worker,197,10,30,0,2,1,1,2,0,0,"sales, movies, customer service",60.17098812,24.93034977
+movie theater worker,198,10,30,0,2,1,1,2,0,0,"sales, movies, customer service",60.20994239,24.86336977
+movie theater worker,199,10,30,0,2,1,1,2,0,0,"sales, movies, customer service",60.21592636,24.93790225
+movie theater worker,200,10,30,0,2,1,1,2,0,0,"sales, movies, customer service",60.24190371,24.9182592
+painter,201,9,30,0,0,2,2,3,0,0,"redecoration, ",60.15533872,24.94850506
+painter,202,9,30,0,0,2,2,3,0,0,"redecoration, ",60.19700871,24.91994146
+painter,203,9,30,0,0,2,2,3,0,0,"redecoration, ",60.22546689,24.86865065
+painter,204,9,30,0,0,2,2,3,0,0,"redecoration, ",60.20648411,24.87150827
+painter,205,9,30,0,0,2,2,3,0,0,"redecoration, ",60.16489959,24.89691166
+paperboy,206,8,30,2,0,3,0,2,0,0,"delivery, bike",60.22547053,24.86134084
+paperboy,207,8,30,2,0,3,0,2,0,0,"delivery, bike",60.1782835,24.89635571
+paperboy,208,8,30,2,0,3,0,2,0,0,"delivery, bike",60.1721217,24.95001073
+paperboy,209,8,30,2,0,3,0,2,0,0,"delivery, bike",60.16554354,24.91695035
+paperboy,210,8,30,2,0,3,0,2,0,0,"delivery, bike",60.19239556,24.93971572
+pet-sitter,211,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.20843891,24.92176055
+pet-sitter,212,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.18168819,24.9526164
+pet-sitter,213,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.18245004,24.92195917
+pet-sitter,214,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.19611401,24.90941701
+pet-sitter,215,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.18886996,24.90493706
+pet-sitter,216,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.19027833,24.90903033
+pet-sitter,217,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.20280891,24.94542342
+pet-sitter,218,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.20894717,24.92674425
+pet-sitter,219,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.17033793,24.87543638
+pet-sitter,220,13,25,2,1,2,1,1,1,0,"animals, outdoors, activities",60.16124481,24.95308518
+photographer,221,12,30,1,0,3,2,1,1,0,"art, photography",60.24337268,24.88618181
+photographer,222,12,30,1,0,3,2,1,1,0,"art, photography",60.23858264,24.953841
+photographer,223,12,30,1,0,3,2,1,1,0,"art, photography",60.19015421,24.91720965
+receptionist,224,10,30,0,3,1,1,3,0,0,"customer service, hotel",60.18855007,24.91591861
+receptionist,225,10,30,0,3,1,1,3,0,0,"customer service, hotel",60.22918991,24.90089044
+receptionist,226,10,30,0,3,1,1,3,0,0,"customer service, hotel",60.16864601,24.93563392
+receptionist,227,10,30,0,3,1,1,3,0,0,"customer service, hotel",60.18613999,24.87768069
+receptionist,228,10,30,0,3,1,1,3,0,0,"customer service, hotel",60.19718219,24.93931252
+retail worker,229,10,35,1,3,1,1,3,0,0,sales,60.21346577,24.93639819
+retail worker,230,10,35,1,3,1,1,3,0,0,sales,60.20601078,24.88785691
+retail worker,231,10,35,1,3,1,1,3,0,0,sales,60.17708071,24.94743508
+retail worker,232,10,35,1,3,1,1,3,0,0,sales,60.23432892,24.9542515
+retail worker,233,10,35,1,3,1,1,3,0,0,sales,60.16734165,24.95148233
+retail worker,234,10,35,1,3,1,1,3,0,0,sales,60.18259971,24.93976049
+retail worker,235,10,35,1,3,1,1,3,0,0,sales,60.1953835,24.94495653
+retail worker,236,10,35,1,3,1,1,3,0,0,sales,60.22033713,24.86287589
+retail worker,237,10,35,1,3,1,1,3,0,0,sales,60.20245019,24.86073758
+retail worker,238,10,35,1,3,1,1,3,0,0,sales,60.22110458,24.95051362
+senior care,239,12,35,1,3,1,2,2,0,0,elderly,60.16785566,24.93955987
+senior care,240,12,35,1,3,1,2,2,0,0,elderly,60.16207665,24.89809796
+senior care,241,12,35,1,3,1,2,2,0,0,elderly,60.22624724,24.87392238
+senior care,242,12,35,1,3,1,2,2,0,0,elderly,60.23635503,24.92849809
+senior care,243,12,35,1,3,1,2,2,0,0,elderly,60.19606749,24.93890313
+social media manager,244,9,30,0,1,2,0,3,0,1,"social media, instagram, twitter, internet, facebook",,
+software developer,245,12,35,0,0,3,2,1,0,1,"computer, programming",,
+swim instructor,246,12,25,2,3,2,3,1,0,0,"swimming, teaching, sports",60.16637632,24.87990778
+swim instructor,247,12,25,2,3,2,3,1,0,0,"swimming, teaching, sports",60.22613372,24.93832223
+telemarketer,248,11,30,0,3,3,2,3,0,1,sales,,
+ticket seller,249,10,30,0,2,2,1,3,0,0,"sales, customer service",60.23278271,24.91931305
+ticket seller,250,10,30,0,2,2,1,3,0,0,"sales, customer service",60.18699105,24.93128836
+ticket seller,251,10,30,0,2,2,1,3,0,0,"sales, customer service",60.22642501,24.92250595
+ticket seller,252,10,30,0,2,2,1,3,0,0,"sales, customer service",60.19365195,24.87278467
+ticket seller,253,10,30,0,2,2,1,3,0,0,"sales, customer service",60.1840584,24.90631376
+ticket seller,254,10,30,0,2,2,1,3,0,0,"sales, customer service",60.20138837,24.94474934
+ticket seller,255,10,30,0,2,2,1,3,0,0,"sales, customer service",60.1690759,24.89400792
+ticket seller,256,10,30,0,2,2,1,3,0,0,"sales, customer service",60.23459031,24.91628897
+ticket seller,257,10,30,0,2,2,1,3,0,0,"sales, customer service",60.16099787,24.92140977
+ticket seller,258,10,30,0,2,2,1,3,0,0,"sales, customer service",60.20773293,24.91427323
+tour guide,259,12,20,1,3,0,3,2,0,0,"culture, activities",60.17252472,24.95050253
+tour guide,260,12,20,1,3,0,3,2,0,0,"culture, activities",60.16367095,24.92376977
+tour guide,261,12,20,1,3,0,3,2,0,0,"culture, activities",60.19582545,24.88499569
+tutor,262,18,10,0,3,3,3,0,1,1,"teaching, school",,
+waiter,263,7,35,1,2,1,2,2,0,0,"food, customer service",60.18639601,24.87900394
+waiter,264,7,35,1,2,1,2,2,0,0,"food, customer service",60.21700381,24.95453481
+waiter,265,7,35,1,2,1,2,2,0,0,"food, customer service",60.24087908,24.9509419
+waiter,266,7,35,1,2,1,2,2,0,0,"food, customer service",60.20316252,24.93424604
+waiter,267,7,35,1,2,1,2,2,0,0,"food, customer service",60.2392448,24.91056949
+waiter,268,7,35,1,2,1,2,2,0,0,"food, customer service",60.20574398,24.94289041
+waiter,269,7,35,1,2,1,2,2,0,0,"food, customer service",60.18857197,24.9299428
+waiter,270,7,35,1,2,1,2,2,0,0,"food, customer service",60.20800811,24.93221292
+waiter,271,7,35,1,2,1,2,2,0,0,"food, customer service",60.15738205,24.93088537
+waiter,272,7,35,1,2,1,2,2,0,0,"food, customer service",60.21165604,24.94484659

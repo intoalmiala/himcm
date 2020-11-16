@@ -1,7 +1,7 @@
 import consts, csv
 import random
 from Job import Job
-from Person import Person
+from Person2 import Person
 
 
 
@@ -9,16 +9,16 @@ from Person import Person
 
 
 with open(consts.JOBPATH) as f:
-    rawdata = list(csv.reader(f, delimiter=";"))
+    rawdata = list(csv.reader(f, delimiter=","))
 
 data = rawdata[1:]
 jobs = []
 
 for i in range(len(data)):
     for j in range(1,11):
-        data[i][j] = int(data[i][j])*consts.JOB_FACTOR_WEIGHTS[j-1]
+        data[i][j] = int(data[i][j])*consts.JOB_FACTOR_WEIGHTS[j-2]
     data[i][11] = set(map(lambda x: x.strip(), data[i][11].split(',')))
-    coords = ("None", "None") if data[i][12] == "None" else (float(data[i][12]), float(data[i][13]))
+    coords = ("None", "None") if data[i][12] == "" else (float(data[i][12]), float(data[i][13]))
     jobs.append(Job(*data[i][:12], coords))
 
 
@@ -59,26 +59,34 @@ def calc_scores(person, jobsample=jobs):
 
     return results
 
+SEP = ";"
 
+f = open(consts.OUTPUTPATH, "w")
 
+jsample = jobs
+f.write("id" + SEP + SEP.join("S" + str(j) + SEP + str(j) for j in range(len(jsample))) + "\n")
+f.close()
 def all_scores(jobsample=jobs):
     people_scores = []
-    for person in persons:
-        people_scores.append(calc_scores(person, jobsample))
+    for i, person in enumerate(persons, start=1):
+        f = open(consts.OUTPUTPATH, "a")
+        score = calc_scores(person, jobsample)
+        line = [SEP.join((str(pair[1].id) , str(pair[0]))) for pair in score]
+        f.write(str(i) + SEP + SEP.join(line) + "\n")
+
+        people_scores.append(score)
         print(f"{person} finished")
+        f.close()
     return people_scores
 
+
 # jsample = jobs[:2]
-jsample = jobs
-SEP = ";"
+
+
 # print(calc_scores(person1, jsample))
 
 final_scores = all_scores(jsample)
-with open(consts.OUTPUTPATH, "w") as f:
-    f.write("id" + SEP + SEP.join("S" + str(j) + SEP + str(j) for j in range(len(jsample))) + "\n")
-    for i, score_line in enumerate(final_scores, start=1):
-        line = [SEP.join((str(pair[1].id) , str(pair[0]))) for pair in score_line]
-        f.write(str(i) + SEP + SEP.join(line) + "\n")
+        
 
 print("Finished!")
     
